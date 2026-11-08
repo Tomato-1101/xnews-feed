@@ -5,7 +5,41 @@
     <link>https://tomato-1101.github.io/xnews-feed/</link>
     <description>毎朝のニュース要約(AI・テクノロジー・株など)</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 12:44:08 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 08:00:02 +0900</lastBuildDate>
+    <item>
+      <title>2026-11-09 のニュース</title>
+      <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-09.md</link>
+      <guid isPermaLink="true">https://tomato-1101.github.io/xnews-feed/days/2026-11-09.md</guid>
+      <pubDate>Mon, 09 Nov 2026 08:00:02 +0900</pubDate>
+      <description>[AI] Anthropic、Claude Maxの「Proの20倍」広告で訴訟続行 米判事が判断
+[AI] Google、AI開発支援に「仕様書を先に書かせる」拡張機能EGMを公開
+[AI] アリババらの実務型コーディングAI試験、最高のGPT-6 Astraでも完答26.4％
+[AI] Tencent、Qwen3.8-27Bの文章生成を速める補助モデル「DSpine」を公開
+[AI] Ricursive Intelligence、650億規模の公開AI「Ripple-65B」試験版を公開
+[株] Anthropic、AIデータセンター向けにガス発電機を約34億ドルで確保
+[株] 米民主党、議会多数でトランプ関税の撤廃を最優先 就任直後に法案攻勢へ
+[仮想通貨] Keplr財布の流出問題、Web3Authが危険な財布から560万ドルを先に退避
+[仮想通貨] バイナンス、不正流出後の出金をHYPE・APTでも再開 段階的に復旧
+[仮想通貨] OKX創業者、MEXCからの直接送金に警告 資金凍結の恐れ
+[テクノロジー] エヌビディア取締役会、フアンCEOと中国スパイ疑惑の女性の関係を独立調査
+[テクノロジー] マスク氏の半導体工場計画、調達部隊が極秘来日 生産量はラピダスの40倍
+[テクノロジー] 米専門サービス業の雇用、10月は7万人増 AI失業の懸念の中で約4年ぶりの多さ
+[テクノロジー] AI企業の株式売り出し、2026年は3000億ドル超 Anthropic上場を除いて
+[テクノロジー] DeepSeekの2840億パラメータAI、GPU無し・メモリ64GBのPCで動作可能に
+[テクノロジー] SpaceX、スターシップ15号機の試験飛行で「ダブルキャッチ」に挑戦へ
+[テクノロジー] AIとツールをつなぐ規格MCP、公式Ruby SDKが全機能対応の『Tier 1』に
+[テクノロジー] ターミナル基盤『Libghostty 1.0』公開 Ghostty本体のWindows対応は中止
+[話題] イエメンのフーシ派、サウジ首都の金融街や空港を攻撃と声明 国営石油ビル損傷
+[話題] エジプトで列車2本が衝突、7人死亡・少なくとも125人けが
+[話題] 交番侵入や警官挑発の迷惑行為『ショウリンジ』『ポリ鬼』、中高生に横行し逮捕者
+[話題] 小嶋陽菜さん、結婚と第1子出産をInstagramで報告 相手には触れず
+[話題] 『SPY×FAMILY』、TVアニメ第4期と劇場版第2弾を2027年に展開
+[論文] 地震計1台の記録から震源の方向と距離を推定、少ない正解データで学ぶAI
+[論文] ねじった窒化ホウ素で「人工原子」を作る提案、計算で検証し効果は4分の1
+[論文] AIの「自己改良」は費用に見合うか検証、簡単なメモ方式が7割安く同等以上
+[論文] ソフトウェア工学とAIが互いを支える関係を整理、今後の研究課題を提案
+[論文] 人型ロボットにサッカーのドリブルや鋭い方向転換を教え、実機で成功率向上</description>
+    </item>
     <item>
       <title>2026-11-08 のニュース</title>
       <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-08.md</link>
