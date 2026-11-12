@@ -5,7 +5,51 @@
     <link>https://tomato-1101.github.io/xnews-feed/</link>
     <description>毎朝のニュース要約(AI・テクノロジー・株など)</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 08:00:01 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 08:00:01 +0900</lastBuildDate>
+    <item>
+      <title>2026-11-13 のニュース</title>
+      <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-13.md</link>
+      <guid isPermaLink="true">https://tomato-1101.github.io/xnews-feed/days/2026-11-13.md</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:01 +0900</pubDate>
+      <description>[AI] Google、新AIモデル「Gemini 4 Hydrogen」公開 検索の全利用者に導入
+[AI] Anthropic、Claudeがビデオ会議に参加する「Claude Meetings」
+[AI] OpenAI、上位AIの「思考の過程」が見えにくくなる原因を分析
+[AI] AI開発ツールClaude Code新版、ツールをコードで呼ぶ「Code Mode」
+[AI] MetaのAIエージェント「Muse」、専用メールアドレスで送受信可能に
+[AI] Perplexity、選択肢を判定する「Decider V1.3」をOpenRouterで提供
+[AI] Thinking Machines、AI「Inkling 2 Small」の重みを公開
+[AI] Fish Audio、説明文だけで電話対応AIを作れる「Fish Agent」
+[AI] 動画AIのRunway、文章や画像から3Dモデルを作る機能に対応
+[AI] Liquid AI、CPUで実時間の361倍速く動く音声変換部品を発表
+[AI] CopilotKit、自社で運用できるAI同僚「OpenBot 1.0」を無償公開
+[AI] 動画AIのLuma、撮影済み映像の人物や物を差し替える機能
+[株] 円が一時160円台、2カ月半ぶり安値 ドルは米利上げ観測で19カ月ぶり高値
+[株] AI半導体のCerebras、売上が予想超え 時間外で18%高
+[株] 米シスコ、8-10月期は売上・利益とも予想超え AI向け売上は倍増見通し
+[株] 米中古住宅販売、375万件で予想387万件を下回る
+[株] FRB、2027年のFOMC日程を修正 10月会合は金利を決めず戦略を議論
+[仮想通貨] ビットコイン7万1200ドルに下落、12週ぶり安値 エヌビディア混乱とMSCI除外
+[仮想通貨] 米司法省、北朝鮮がバイナンスから盗んだ12億ドル超を差し押さえ
+[仮想通貨] 韓国金融委、ハッキングの兆候段階で取引所の入出金停止を容認
+[仮想通貨] 米証券決済のDTCC、株や米国債のトークン化をソラナでも 27年後半
+[仮想通貨] NY州金融当局、仮想通貨企業の広告に指針 誇張や手数料の誤解を禁止
+[仮想通貨] トークン化証券のtZERO、米CFTCからデリバティブ取引所の認可
+[テクノロジー] NVIDIAのフアンCEOが即日辞任 クレスCFOが暫定CEO、株価は一時14%超安
+[テクノロジー] Anthropic、上場へ投資家向け情報を公開 需要は募集の約6倍
+[テクノロジー] Microsoft 365で世界的な大規模障害 Outlookのメールに接続できず
+[テクノロジー] AI開発環境Google Antigravity、クラウドでAIが作業を続ける機能を追加
+[テクノロジー] 宝くじ公式サイトで不正ログイン、当落履歴や住所が閲覧された可能性
+[話題] 千葉県と茨城県で地震活動が活発化、地震調査委員会が注意呼びかけ
+[話題] AIで文脈を補正する無料の日本語入力ソフト『Mozkey』公開 端末内で動作
+[話題] 新設のプロ野球『長嶋茂雄賞』、初の受賞者に阪神・佐藤輝明選手
+[話題] NHK紅白歌合戦、EBiDANらの初出場決定と報道 13日に出場歌手発表
+[監視アカウント] Claude Managed Agents、自社環境で動かせる版を限定ベータ公開
+[論文] 機械学習のさまざまな手法を「エネルギー」という1つの見方で整理
+[論文] ラベルなし動画からロボットの「動き」だけを取り出し、別の場面に移す
+[論文] 昆虫の目やハエの動き検知は物理的な限界まで最適化されているかを検証
+[論文] AIエージェントの「過去の教訓」に元の記録をつなげ、思い込みの失敗を減らす
+[論文] ロボットの信号を動画生成AIになじむ形に詰め、動作予測を速く正確に</description>
+    </item>
     <item>
       <title>2026-11-12 のニュース</title>
       <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-12.md</link>
