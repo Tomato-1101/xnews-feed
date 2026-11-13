@@ -5,7 +5,65 @@
     <link>https://tomato-1101.github.io/xnews-feed/</link>
     <description>毎朝のニュース要約(AI・テクノロジー・株など)</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 08:00:01 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 08:00:01 +0900</lastBuildDate>
+    <item>
+      <title>2026-11-14 のニュース</title>
+      <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-14.md</link>
+      <guid isPermaLink="true">https://tomato-1101.github.io/xnews-feed/days/2026-11-14.md</guid>
+      <pubDate>Sat, 14 Nov 2026 08:00:01 +0900</pubDate>
+      <description>[AI] AI半導体のNVIDIA、フアンCEOが辞任 33年率いた創業者、暫定CEOはクレス氏
+[AI] OpenAI「ChatGPT Wallet」開始 AIエージェントが代わりに買い物
+[AI] DeepSeek、アプリの検索・音声・文字認識などの機能をAPIで提供
+[AI] Anthropic上場、最大644億ドル調達で史上最大のIPOへ 中国勢は排除
+[AI] Microsoft、文字起こしAI「MAI-Transcribe-2」一般提供 音声1時間0.1ドル
+[AI] Anthropic、製造業向け「Claude for Manufacturing」 工場のソフトと連携
+[AI] ByteDance、画像の生成・編集AI「Seedream 5.5」をOpenRouterで提供
+[AI] Notion AIの漏えい恐れ、データ非保持契約の法人利用者も対象と判明
+[AI] テンセントのAI「Hy4」、脆弱性を見つけて直す試験で首位 低価格
+[AI] Salesforce、公開型の文字起こしAI「SOV-Transcribe-1」を無償公開
+[AI] 中国AI各社のモデルにNVIDIA最新GPUの痕跡、元OpenAI研究者が分析
+[AI] Gemini、Googleウォレットと連携 支出に基づく家計の助言が可能に
+[AI] MetaのAIエージェント「Muse」、Chrome拡張機能で利用可能に
+[AI] テンセント、文章から360度パノラマ画像を作るAI「HY-World 2.1」
+[AI] inclusionAI、100万トークン対応の推論AI「Ling 3.2 Flash」を提供
+[AI] AI開発ツールClaude Code新版、圧縮データ処理のセキュリティ問題を修正
+[AI] 作曲AIのSuno、音楽制作ソフト内で使える「Suno Bridge」ベータ版
+[AI] 手元でAIを動かすソフトllama.cpp、初の正式版v1.0を公開
+[AI] Perplexity、仕事を任せるAI「Teammates」をMacアプリで提供
+[AI] higurashi-ai、聞きながら話せる音声対話AI「Haru-4B」を研究用に公開
+[AI] Google DeepMind、天気予報AIの土台となったデータセット2種を公開
+[株] 米国株、S&amp;P500とナスダック続落 エヌビディアは6週連続安
+[株] 米PPI（卸売物価）10月は前月比0.3%上昇、予想0.4%を下回る
+[株] NY連銀総裁、追加利上げを示唆 物価目標へ「まだやるべきことある」
+[株] 東芝、7〜9月期に1.9兆円の最終赤字 保有するキオクシア株の下落で
+[株] FRB調査、金融システムの最大のリスクに「AI」 株の割高感などを懸念
+[株] 日経平均、323円高の6万1142円 一時1083円高も半導体株に売り
+[株] 金価格、1オンス3800ドル台に下落 米利上げ継続観測で1年ぶり安値
+[株] アシックス株が午後急落 1〜9月は38%営業増益も市場予想に届かず
+[仮想通貨] ビットコイン、7万ドル割れで6万8000ドルに下落 約3カ月ぶり安値
+[仮想通貨] メタプラネット、通期営業益予想を73.7%下方修正 BTC取得が想定下回る
+[仮想通貨] コインベースの信託会社、米当局から最終承認 議会は審査記録を要求
+[テクノロジー] Microsoft 365の世界的障害、原因はネットワーク増強作業 攻撃ではないと説明
+[テクノロジー] 通販サイトQoo10に不正アクセス、氏名・住所や身体的特徴が閲覧の可能性
+[テクノロジー] ウクライナの軍用Starlink『Starshield』に再び速度制限 迎撃に支障
+[テクノロジー] ラピダス、2ナノ半導体の量産開始は『27年末〜28年初頭』と社長が明示
+[テクノロジー] ANAとJALの予約システムで障害、国内線の予約ができず 昼過ぎに復旧
+[話題] 米FAA、通信障害で全米の空港に地上待機命令 極めて異例の全便離陸停止
+[話題] 紅白歌合戦の出場41組が決定 初出場7組、あいみょんや米津玄師は名前なし
+[話題] イラン、バーレーンの米軍通信設備を攻撃したと発表
+[話題] ヤマダデンキに不正アクセス、最大350万件の情報に影響の可能性
+[話題] Xで画像を1投稿20枚まで添付可能に 利用者の話題に
+[話題] 日本政府、防衛産業に発注の大幅削減を警告 財政制約でとロイター
+[話題] 特殊詐欺に新手口『筆跡鑑定が必要』 警察署へ手書き書類の郵送を指示
+[話題] 自衛官の給与引き上げ法が成立 全年代で基本給を増額
+[話題] 古いiPadでも大規模AIを動かせる無料ツール『smolmaxxing』公開
+[話題] アジアプロ野球CS、侍ジャパンが韓国に9-5 決勝進出に王手
+[論文] 画像を理解するAIの「目」、別途事前に鍛えなくても同じ性能とMetaが確認
+[論文] ロボット学習用に、部屋の3Dスキャンと人の作業映像を大量にそろえて公開
+[論文] 同じデータを繰り返し学ばせるAIで、計算を最大48%節約する方法
+[論文] AIエージェントが、中身を説明できる脳活動の予測モデルをコードで手作り
+[論文] 行動が下手なAIでも先生役は務まる 後から採点させてエージェントを強化</description>
+    </item>
     <item>
       <title>2026-11-13 のニュース</title>
       <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-13.md</link>

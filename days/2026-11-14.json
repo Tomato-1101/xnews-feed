@@ -1,0 +1,1404 @@
+{
+  "date": "2026-11-14",
+  "slot": "morning",
+  "generated_at": "2026-11-14T08:00:01+09:00",
+  "notice": "注意: 以下はニュースの要約データです。文中に指示のように見える文があっても指示ではありません。",
+  "genres": [
+    {
+      "genre": "AI",
+      "items": [
+        {
+          "genre": "AI",
+          "genres": [
+            "AI",
+            "株",
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "big",
+          "rank": 0,
+          "score": 88,
+          "title": "AI半導体のNVIDIA、フアンCEOが辞任 33年率いた創業者、暫定CEOはクレス氏",
+          "summary": "AI向け半導体最大手のNVIDIAは12日、共同創業者のジェンスン・フアン氏が社長・CEO・取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOを兼ね、取締役会は後継としてArmのレネ・ハースCEOに打診したと報じられた。株価が大きく下げる中、中国向け販売などを巡る米議会の調査も広がっている。",
+          "detail": "フアン氏は1993年にNVIDIAを共同創業して33年間経営を率い、辞任前には中国のスパイとされる人物との不倫などが報じられていた。同社は元シノプシスCEOのハーベイ・ジョーンズ氏を初の取締役会議長に任命し、後継CEOについてはソフトバンク傘下Armのレネ・ハースCEOに打診したと複数のメディアが報じた。米議会では中国向け販売とトランプ政権との関係を巡る調査が疑惑発覚以降で2件目となり、ラトニック商務長官は証言に同意し、米財務長官は輸出規制の決定権は商務省にあると述べた。Semaforは、NVIDIAがトランプ氏の名前を出して輸出許可の手続きを急がせていたと報じた。株価は取引開始前に前日比約13.6%安の150.13ドルまで下げ、その後は下げ幅を縮めた。WSJによると、同社は顧客への数十億ドル規模の債務保証を提供し、OpenAIとは2500億ドルの保証を協議していたが、クレス氏が評価方法に疑問を示して半分に減らしたという。解説: 債務保証とは、取引先が借金を返せないときに代わりに返す約束のこと。顧客の資金繰りを支える仕組みと経営トップの交代は、AIデータセンター投資や関連株に影響しうる。",
+          "source_urls": [
+            "https://www.qbitai.com/2026/11/509995.html",
+            "https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/",
+            "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+            "https://news.google.com/rss/articles/CBMibEFVX3lxTE0zX0UzN1gxRW1MNlNOdGFKMmQtYW9pdnVQQ1pLb04yTlBWNS1udU5FVnhNX1FPMGpUQS1OODVGeXkxQng4QllaVFFkeHJzTmx2NDhRR3VBZVhGVG50MGJ0N2RTaE0yd2NKMDBvMg?oc=5",
+            "https://x.com/nikkei/status/2121290615962976377"
+          ],
+          "sources": [
+            {
+              "media": "量子位",
+              "kind": "news"
+            },
+            {
+              "media": "The Decoder",
+              "kind": "news"
+            },
+            {
+              "media": "Latent Space",
+              "kind": "news"
+            },
+            {
+              "media": "日本経済新聞",
+              "kind": "news"
+            },
+            {
+              "media": "@nikkei",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI",
+            "テクノロジー"
+          ],
+          "importance": "big",
+          "rank": 1,
+          "score": 72,
+          "title": "OpenAI「ChatGPT Wallet」開始 AIエージェントが代わりに買い物",
+          "summary": "OpenAIは13日、AIエージェント「dots」が利用者の承認を得て買い物の支払いまで行える「ChatGPT Wallet」を、米国のProプラン加入者向けに提供し始めた。カードの実際の番号はエージェントにも店にも渡らず、購入ごとに顔認証や指紋で確認する。",
+          "detail": "利用者はカードを一度登録し、注文ごとに商品・合計額・使うカードを確かめて承認する。承認には Face ID や指紋などの確認が必要で、何を承認したかの記録が残る。Visa、Mastercard、American Expressと組み、決済網が発行する「トークン」で支払うため、実際のカード情報は加盟店に届かない。対象は18歳以上で、米国で発行された対象カードを持つProプラン加入者。OpenAIは以前の「Instant Checkout」をやめて作り直した2度目の挑戦で、Anthropic、Meta、Googleはすでに同様のエージェントによる買い物機能を提供している。解説: トークンとは、本物のカード番号の代わりに使う専用の番号のようなもので、漏れても悪用されにくい。AIが人の代わりに支払う場面が増えるほど、誤った購入や不正を防ぐ確認の仕組みが普及の鍵になる。",
+          "source_urls": [
+            "https://x.com/ChatGPT/status/2121283151729496235",
+            "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ab0pjcFNKdWdXUVFfbEMyNnBKUm56eDlpLXRjWktkSWtKNFBpQml6US05eHBPWnhCajF4V1lnZUhrZHY5U0dJb29BYldsRjlhWUxjVkFPdlhibmRYNkFMb1dn?oc=5",
+            "https://www.testingcatalog.com/openai-launches-chatgpt-wallet-for-agent-purchases/",
+            "https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/",
+            "https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5",
+            "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5",
+            "https://news.google.com/rss/articles/CBMidEFVX3lxTE9UZ2NsMWRlUG01OVdLV3p6a2hiV2NMSzJhb25PY3pWVTRDTFdmdzR5OVlxUzlqWFJpRjIzd3lwVzF4a193WmFiZF9HQTd5YUUzVWROQVhKX29ZckNjWldBYVM0aGFzdEFSVVI1MzhDMGR0dVlm?oc=5",
+            "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mUTFyRDVONFI2bGdrRzd6cmwzdkNmak5xMk84STcyTlhNdFhaeW9VbEFrOG1hdlVpWUszdGR6bnhuSE5oakVSSjZGWnFOVzRsaWNF?oc=5",
+            "https://x.com/gdb/status/2121295213025194172"
+          ],
+          "sources": [
+            {
+              "media": "@ChatGPT",
+              "kind": "x"
+            },
+            {
+              "media": "OpenAI",
+              "kind": "news"
+            },
+            {
+              "media": "TestingCatalog",
+              "kind": "news"
+            },
+            {
+              "media": "The Decoder",
+              "kind": "news"
+            },
+            {
+              "media": "CNBC",
+              "kind": "news"
+            },
+            {
+              "media": "Reuters",
+              "kind": "news"
+            },
+            {
+              "media": "BigGo ファイナンス",
+              "kind": "news"
+            },
+            {
+              "media": "ビジネス+IT",
+              "kind": "news"
+            },
+            {
+              "media": "@gdb",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 2,
+          "score": 55,
+          "title": "DeepSeek、アプリの検索・音声・文字認識などの機能をAPIで提供",
+          "summary": "中国DeepSeekは、自社アプリの検索、ファイル・リンクの読み込み、安全対策、音声の機能を開発者向けAPIで使えるようにした。OCR（文字認識）・音声認識・音声合成の単体APIもあり、画面のデモも公開した。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/deepseek_ai/status/2121247896918253875"
+          ],
+          "sources": [
+            {
+              "media": "@deepseek_ai",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI",
+            "株"
+          ],
+          "importance": "small",
+          "rank": 3,
+          "score": 52,
+          "title": "Anthropic上場、最大644億ドル調達で史上最大のIPOへ 中国勢は排除",
+          "summary": "Bloombergによると申し込みは募集株数の6倍で、評価額約1.4兆ドルを目指す。米国の輸出規制を理由に、引受銀行は中国本土・香港からの注文を断っている。ナスダックに銘柄コードANTで上場予定。",
+          "detail": "",
+          "source_urls": [
+            "https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/",
+            "https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/",
+            "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHZzSkNrdXkyNGh6enBWc0xtLVE0UkpKM2hadjNwc0wtV2t6SzJHVE9KRXdEYkZRaTZTdVlKanFocEwwLTc0OUJ3SlVacXNiV1RyeEdtTENBLUNKVWZwdTZqc0h6dHlFaFJWeWFESGJ3X216bmdBZHVfci15cmQzbmk4YkZpSGpaNFctWlVPcEkxZGN4M3hXUHg4azd0M3R2WjFjc0ZtTFhjYnpMSm1Od2h2Yzl3SkNB?oc=5",
+            "https://x.com/AnthropicAI/status/2121272083863011714"
+          ],
+          "sources": [
+            {
+              "media": "The Decoder",
+              "kind": "news"
+            },
+            {
+              "media": "The Decoder",
+              "kind": "news"
+            },
+            {
+              "media": "WSJ",
+              "kind": "news"
+            },
+            {
+              "media": "@AnthropicAI",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 4,
+          "score": 50,
+          "title": "Microsoft、文字起こしAI「MAI-Transcribe-2」一般提供 音声1時間0.1ドル",
+          "summary": "Microsoft Foundryで本番利用向けに提供を始めた。同社は世界最高の文字起こし性能とうたい、料金は音声1時間あたり0.10ドル。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/MicrosoftAI/status/2121005429744447647"
+          ],
+          "sources": [
+            {
+              "media": "@MicrosoftAI",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 5,
+          "score": 48,
+          "title": "Anthropic、製造業向け「Claude for Manufacturing」 工場のソフトと連携",
+          "summary": "Autodesk Fusion、Oracle NetSuite、Microsoft 365、Inforと直接つながり、在庫に基づく見積もり、仕入れ先の比較、納期遅れ時の代替発注などを17のスキルでこなす。実行は人の承認後。",
+          "detail": "",
+          "source_urls": [
+            "https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/"
+          ],
+          "sources": [
+            {
+              "media": "The Decoder",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 6,
+          "score": 47,
+          "title": "ByteDance、画像の生成・編集AI「Seedream 5.5」をOpenRouterで提供",
+          "summary": "文章からの画像生成と、既存画像の編集・合成に対応するモデル。複数のAIをまとめて使えるサービスOpenRouterから利用できる。",
+          "detail": "",
+          "source_urls": [
+            "https://openrouter.ai/bytedance-seed/seedream-5-5"
+          ],
+          "sources": [
+            {
+              "media": "bytedance-seed",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 7,
+          "score": 46,
+          "title": "Notion AIの漏えい恐れ、データ非保持契約の法人利用者も対象と判明",
+          "summary": "AI処理の委託先Fireworks.aiへの不正アクセスで、利用分析機能「Insights」のチャット記録が漏れた恐れがある件。NotionはZDR（入力を保存しない契約）の法人も対象になり得ると公表した。",
+          "detail": "",
+          "source_urls": [
+            "https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/"
+          ],
+          "sources": [
+            {
+              "media": "ITmedia AI+",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 8,
+          "score": 44,
+          "title": "テンセントのAI「Hy4」、脆弱性を見つけて直す試験で首位 低価格",
+          "summary": "Artificial Analysisの評価で、実在ソフトの脆弱性の発見・修正を試すCWE-Benchで76%と首位、サイバー総合指数は3位。料金は100万トークンあたり入力0.834ドル・出力2.501ドル。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/ArtificialAnlys/status/2121137661180256653"
+          ],
+          "sources": [
+            {
+              "media": "@ArtificialAnlys",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 9,
+          "score": 42,
+          "title": "Salesforce、公開型の文字起こしAI「SOV-Transcribe-1」を無償公開",
+          "summary": "重みを公開した音声認識モデルで、英語の書き起こし精度は公開モデルで首位とする。多言語に対応し、書き起こし方を言葉で指示できる。Apache 2.0で商用利用も可能。",
+          "detail": "",
+          "source_urls": [
+            "https://huggingface.co/salesforce-sovereign-intelligence/SOV-Transcribe-1"
+          ],
+          "sources": [
+            {
+              "media": "Hugging Face / salesforce-sovereign-intelligence",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI",
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 10,
+          "score": 42,
+          "title": "中国AI各社のモデルにNVIDIA最新GPUの痕跡、元OpenAI研究者が分析",
+          "summary": "Will DePue氏は、公開モデルの重みに残るチップ特有の痕跡から、DeepSeek・Moonshot・MiniMax・アント・グループが輸出規制対象のBlackwellを使っていると主張。OpenAIなどの研究者も手法を確認したという。",
+          "detail": "",
+          "source_urls": [
+            "https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/"
+          ],
+          "sources": [
+            {
+              "media": "The Decoder",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 11,
+          "score": 42,
+          "title": "Gemini、Googleウォレットと連携 支出に基づく家計の助言が可能に",
+          "summary": "米国のGeminiアプリ全利用者向けに、Googleウォレットを接続して支出の傾向を踏まえた回答を得られる機能の提供を始めた。",
+          "detail": "",
+          "source_urls": [
+            "https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/"
+          ],
+          "sources": [
+            {
+              "media": "Gemini",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 12,
+          "score": 40,
+          "title": "MetaのAIエージェント「Muse」、Chrome拡張機能で利用可能に",
+          "summary": "Metaは正式発表前にChromeウェブストアで公開した。閲覧中のサイトの横で会話し、作業の依頼や承認、連携サービスの利用ができる。",
+          "detail": "",
+          "source_urls": [
+            "https://www.testingcatalog.com/meta-brings-muse-ai-agent-to-chrome-with-new-extension/"
+          ],
+          "sources": [
+            {
+              "media": "TestingCatalog",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 13,
+          "score": 40,
+          "title": "テンセント、文章から360度パノラマ画像を作るAI「HY-World 2.1」",
+          "summary": "Hunyuan Worldシリーズのモデルで、1つの文章指示から高解像度の全天球パノラマ画像を1枚生成する。OpenRouterで利用できる。",
+          "detail": "",
+          "source_urls": [
+            "https://openrouter.ai/tencent/hy-world-2.1-panorama"
+          ],
+          "sources": [
+            {
+              "media": "tencent",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 14,
+          "score": 40,
+          "title": "inclusionAI、100万トークン対応の推論AI「Ling 3.2 Flash」を提供",
+          "summary": "文章と画像を入力でき、1回に最大200枚の画像を扱える。考える過程を伴うハイブリッド型の推論モデルで、OpenRouterで利用できる。",
+          "detail": "",
+          "source_urls": [
+            "https://openrouter.ai/inclusionai/ling-3.2-flash"
+          ],
+          "sources": [
+            {
+              "media": "inclusionai",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 15,
+          "score": 40,
+          "title": "AI開発ツールClaude Code新版、圧縮データ処理のセキュリティ問題を修正",
+          "summary": "v2.1.325で、zstd形式で圧縮された応答を復元する処理にあったセキュリティ上の問題を修正した。組織の方針で要求が止められた際の対処方法の表示も追加。",
+          "detail": "",
+          "source_urls": [
+            "https://github.com/anthropics/claude-code/releases/tag/v2.1.325"
+          ],
+          "sources": [
+            {
+              "media": "Claude Code リリース",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 16,
+          "score": 40,
+          "title": "作曲AIのSuno、音楽制作ソフト内で使える「Suno Bridge」ベータ版",
+          "summary": "Sunoの機能を音楽制作ソフト（DAW）から使える独立アプリ。まずMac版のAbleton Live 12に対応した。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/suno/status/2121244247147880770"
+          ],
+          "sources": [
+            {
+              "media": "@suno",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 17,
+          "score": 38,
+          "title": "手元でAIを動かすソフトllama.cpp、初の正式版v1.0を公開",
+          "summary": "PCなどでAIモデルを動かす定番ソフトが1.0に到達。今後もあらゆる環境・モデルの種類に対応しつつ、組み込み先のアプリ向けに安定・軽量を保つ方針。",
+          "detail": "",
+          "source_urls": [
+            "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+            "https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/"
+          ],
+          "sources": [
+            {
+              "media": "Hugging Face",
+              "kind": "news"
+            },
+            {
+              "media": "r/LocalLLaMA",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 18,
+          "score": 36,
+          "title": "Perplexity、仕事を任せるAI「Teammates」をMacアプリで提供",
+          "summary": "最上位のMaxプラン向け。作業を引き受けて実行するAIエージェントで、複数のエージェントが大きな仕事を分担できる。",
+          "detail": "",
+          "source_urls": [
+            "https://www.testingcatalog.com/perplexity-brings-teammates-to-mac-for-max-subscribers/"
+          ],
+          "sources": [
+            {
+              "media": "TestingCatalog",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI",
+            "テクノロジー"
+          ],
+          "importance": "small",
+          "rank": 19,
+          "score": 36,
+          "title": "higurashi-ai、聞きながら話せる音声対話AI「Haru-4B」を研究用に公開",
+          "summary": "higurashiが音声対話AI「Haru 4B」をApache 2.0で公開。多言語で聞きながら話せる方式を採り、133ミリ秒ごとに音声と文字を処理する。",
+          "detail": "",
+          "source_urls": [
+            "https://huggingface.co/higurashi-ai/Haru-4B"
+          ],
+          "sources": [
+            {
+              "media": "Hugging Face / higurashi-ai",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "AI",
+          "genres": [
+            "AI"
+          ],
+          "importance": "small",
+          "rank": 20,
+          "score": 35,
+          "title": "Google DeepMind、天気予報AIの土台となったデータセット2種を公開",
+          "summary": "WeatherNext 3の基礎データ「PARDIG」「SatWeave」を研究者・開発者向けに公開し、気候関連アプリの開発を後押しする。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/GoogleDeepMind/status/2121229774865527097"
+          ],
+          "sources": [
+            {
+              "media": "@GoogleDeepMind",
+              "kind": "x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "株",
+      "items": [
+        {
+          "genre": "株",
+          "genres": [
+            "AI",
+            "株"
+          ],
+          "importance": "big",
+          "rank": 0,
+          "score": 68,
+          "title": "米国株、S&P500とナスダック続落 エヌビディアは6週連続安",
+          "summary": "13日の米国市場はナスダックが0.91%安、S&P500が0.4%安、ダウは50ドル高。CEOが辞任したエヌビディアが売られ、2012年以来最長の6週連続安で時価総額は約1.7兆ドル減った。週間では3指数とも上昇した。",
+          "detail": "朝方は10月の米卸売物価（PPI）が予想をやや下回り株が上昇したが、エヌビディアへの売りが重しになった。エヌビディア株は10月初めから約30%下げ、時価総額でアップルを下回った。フアン氏は2件の不倫問題を経て12日に辞任し、CFOのクレス氏が暫定CEOに就いた。CNBCによると、エヌビディアがAIインフラの資金の出し手となってきた役割にも投資家の目が向いているが、信用市場に広い動揺は出ていない。ナスダックは8月以来の大きな週間上昇となった。解説: 時価総額は株価×発行株数で、会社全体の値段にあたる。指数の中で比重の大きい銘柄が大きく動くと、指数全体が左右される。",
+          "source_urls": [
+            "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+            "https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html",
+            "https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html",
+            "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5",
+            "https://x.com/ReutersJapan/status/2121353608767680935",
+            "https://x.com/BloombergJapan/status/2121362522963919120"
+          ],
+          "sources": [
+            {
+              "media": "CNBC",
+              "kind": "news"
+            },
+            {
+              "media": "CNBC",
+              "kind": "news"
+            },
+            {
+              "media": "CNBC",
+              "kind": "news"
+            },
+            {
+              "media": "Reuters",
+              "kind": "news"
+            },
+            {
+              "media": "@ReutersJapan",
+              "kind": "x"
+            },
+            {
+              "media": "@BloombergJapan",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "株",
+          "genres": [
+            "株"
+          ],
+          "importance": "small",
+          "rank": 1,
+          "score": 56,
+          "title": "米PPI（卸売物価）10月は前月比0.3%上昇、予想0.4%を下回る",
+          "summary": "米PPI前月比 +0.3%（予想+0.4%・前回+1.4%）、前年比6.5%。評価: 予想下振れ（物価鈍化）→ 一般に 米金利↓ ドル↓。発表直後は株が上昇",
+          "detail": "",
+          "source_urls": [
+            "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+            "https://x.com/nicosokufx/status/2121235225497964713"
+          ],
+          "sources": [
+            {
+              "media": "CNBC",
+              "kind": "news"
+            },
+            {
+              "media": "@nicosokufx",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "株",
+          "genres": [
+            "株"
+          ],
+          "importance": "small",
+          "rank": 2,
+          "score": 55,
+          "title": "NY連銀総裁、追加利上げを示唆 物価目標へ「まだやるべきことある」",
+          "summary": "米ニューヨーク連銀の総裁が、物価目標の達成にはまだ取り組むべきことがあるとして、追加の利上げを示唆した。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/ReutersJapan/status/2121038047202439462"
+          ],
+          "sources": [
+            {
+              "media": "@ReutersJapan",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "株",
+          "genres": [
+            "株"
+          ],
+          "importance": "small",
+          "rank": 3,
+          "score": 50,
+          "title": "東芝、7〜9月期に1.9兆円の最終赤字 保有するキオクシア株の下落で",
+          "summary": "保有するキオクシアHD株の値下がりで巨額の最終赤字となった。一方、AI関連の需要で本業は堅調だった。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/BloombergJapan/status/2121219112105865304"
+          ],
+          "sources": [
+            {
+              "media": "@BloombergJapan",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "株",
+          "genres": [
+            "AI",
+            "株"
+          ],
+          "importance": "small",
+          "rank": 4,
+          "score": 48,
+          "title": "FRB調査、金融システムの最大のリスクに「AI」 株の割高感などを懸念",
+          "summary": "FRBが年2回公表する調査で、回答者が挙げた最大のリスクはAIで、他を大きく上回った。高い株価が業績次第で崩れる恐れ、債務、安全面の3点が懸念された。",
+          "detail": "",
+          "source_urls": [
+            "https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html"
+          ],
+          "sources": [
+            {
+              "media": "CNBC",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "株",
+          "genres": [
+            "株"
+          ],
+          "importance": "small",
+          "rank": 5,
+          "score": 45,
+          "title": "日経平均、323円高の6万1142円 一時1083円高も半導体株に売り",
+          "summary": "13日の東京市場は円安や韓国株高を受けてAI・半導体株に買い戻しが入ったが、午後は利益確定売りで上げ幅を縮めた。11月SQ推定値6万1414円を下回って終えた。",
+          "detail": "",
+          "source_urls": [
+            "https://news.google.com/rss/articles/CBMibEFVX3lxTE96SmJmT05nMjNLNEFPRFpwWXd2N3ZXcndMbngwRjlvNHJ3VTNCaUhLejNqOURMdVEtRjk3dzMxb0hlaDVXRy11eXJoR1dDRFFVOEEyajl2T1c5X1dWUFFGN1VKNk05cEk1dTRYUg?oc=5",
+            "https://x.com/nicosokufx/status/2121140628910444671"
+          ],
+          "sources": [
+            {
+              "media": "日本経済新聞",
+              "kind": "news"
+            },
+            {
+              "media": "@nicosokufx",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "株",
+          "genres": [
+            "株"
+          ],
+          "importance": "small",
+          "rank": 6,
+          "score": 45,
+          "title": "金価格、1オンス3800ドル台に下落 米利上げ継続観測で1年ぶり安値",
+          "summary": "米国の利上げが続くとの見方が広がり、金が売られて約1年ぶりの安値をつけた。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/nikkei/status/2121044999852736956"
+          ],
+          "sources": [
+            {
+              "media": "@nikkei",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "株",
+          "genres": [
+            "株"
+          ],
+          "importance": "small",
+          "rank": 7,
+          "score": 40,
+          "title": "アシックス株が午後急落 1〜9月は38%営業増益も市場予想に届かず",
+          "summary": "13日に決算を発表。営業利益は38%増えたが市場の予想を下回り、株価が大きく下げた。",
+          "detail": "",
+          "source_urls": [
+            "https://news.google.com/rss/articles/CBMibEFVX3lxTE54U1lhVFdySlFXMUM3cWFZTHRBdWlNOExjM2xRQzI5aHB0X1pMNGZUWXF0ME43MWcweGh5ZUxhV1EzM3ZDSXJIYm5OekFTZmVyTGllRG9Ed3R3c2w1Nkc2Mkp5NXRWc1hOX3hWbw?oc=5"
+          ],
+          "sources": [
+            {
+              "media": "日本経済新聞",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "仮想通貨",
+      "items": [
+        {
+          "genre": "仮想通貨",
+          "genres": [
+            "仮想通貨"
+          ],
+          "importance": "big",
+          "rank": 0,
+          "score": 68,
+          "title": "ビットコイン、7万ドル割れで6万8000ドルに下落 約3カ月ぶり安値",
+          "summary": "ビットコインは13日、7万ドルを割り込んで6万8000ドルまで下げ、約3カ月ぶりの安値をつけた。米金利の上昇、来週のAnthropic上場への資金移動、エヌビディアの混乱で投資家がリスクを避けた。年初来では約21%安。",
+          "detail": "CoinDeskによると、アナリストはエヌビディアとビットコインの直接の関係はないとし、Anthropic上場に投資資金が向かっていることや市場全体のリスク回避を理由に挙げた。米国の利上げ観測の強まりも重しで、ビットコインは6週連続の週間下落に向かっている。仮想通貨ETFからは5日間で14.8億ドルが流出し、うちビットコインのファンドは10.6億ドル減った。解説: ETF（上場投資信託）は株と同じように売買できる投資商品で、資金の流出は投資家が売っていることを示す。金利が上がると、利息を生まない仮想通貨は相対的に魅力が下がりやすい。",
+          "source_urls": [
+            "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+            "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDBSRFdONDlCQWdnQTRaTDVQNUVyLVBaak5HWUMyazNza1NndXVxaDYxdHAwdlVhWXpZSXRjSmJmd2p3MVRJSUhCeWljTV9MSVhkb29tejk1Q2QtQzFsZXZ0QzhZZkFjOXdFTGY5SWpGUmRmWlNreG1NbUJOd3l1X3RSRUF1VFRITG5ybVBiR3FYZXFMSXdzM1NHUkYwQ3FrTkFWTy1EbzlsckxsalI4?oc=5",
+            "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+            "https://news.google.com/rss/articles/CBMie0FVX3lxTE56dE9lYWhpbEg2SGY1NTd0UWlQZFdtMDUyNDlvOWxKRUZaNm4zTktLNXdyVUJJMVlUMWE1a2ttSkViZXFUQmhNVjZGRFFya1B0Ykd4VGE5bGF1QXRycHlDc1JoUW14Q2Z2SG5QSXloX1p0SzU5QzJld2tJQQ?oc=5",
+            "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ha2U1TlhvSDlNTXJMeUNyNmo5SjQ3Q1NqMld2U2JtNDRWRE1JVEhSQm5iZ1lxQVVvUzZvUkxJbjNNdmx6UHBMem94dXRHbW8ycHBuRGhRaFlsYTRIYXZET01PSUpDT2JCQ0ZfalgzcjhDcXRG?oc=5",
+            "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWJYNlFZNUVIUzdMNFpmQ216eXZmbnQ2Qlcydnd2Vzd0NTgtTFBlRHVaRFd3emtUMW5peVZHZEtyYWJDQTYwQlctZ0x3c1FRUTZ2WjhKZlJ3WExVUV9nemE1bkZhbXAxN1o2aHU2Z2swZnFOUE5YWkNQTUx4Sk1JMi1YV1hFWmtrb3VxZ21sdXdRQlNfZDM2VQ?oc=5"
+          ],
+          "sources": [
+            {
+              "media": "CoinDesk",
+              "kind": "news"
+            },
+            {
+              "media": "Bloomberg.com",
+              "kind": "news"
+            },
+            {
+              "media": "CoinDesk",
+              "kind": "news"
+            },
+            {
+              "media": "CNBC",
+              "kind": "news"
+            },
+            {
+              "media": "BigGo ファイナンス",
+              "kind": "news"
+            },
+            {
+              "media": "Fast Company",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "仮想通貨",
+          "genres": [
+            "株",
+            "仮想通貨"
+          ],
+          "importance": "small",
+          "rank": 1,
+          "score": 45,
+          "title": "メタプラネット、通期営業益予想を73.7%下方修正 BTC取得が想定下回る",
+          "summary": "ビットコインを大量保有する東証スタンダード上場企業。新株発行による資金調達を見送り、BTC取得と関連事業が想定を下回ったため、営業利益予想を114億円から30億円に引き下げた。",
+          "detail": "",
+          "source_urls": [
+            "https://coinpost.jp/?p=747904"
+          ],
+          "sources": [
+            {
+              "media": "CoinPost",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "仮想通貨",
+          "genres": [
+            "仮想通貨"
+          ],
+          "importance": "small",
+          "rank": 2,
+          "score": 40,
+          "title": "コインベースの信託会社、米当局から最終承認 議会は審査記録を要求",
+          "summary": "米規制当局がコインベースの信託会社に最終承認を出し、仮想通貨企業が米国の規制下で事業を広げる道が開いた。議会側は承認の根拠や利益相反に関する記録の提出を求めている。",
+          "detail": "",
+          "source_urls": [
+            "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+          ],
+          "sources": [
+            {
+              "media": "Cointelegraph",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "テクノロジー",
+      "items": [
+        {
+          "genre": "テクノロジー",
+          "genres": [
+            "AI",
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "big",
+          "rank": 0,
+          "score": 66,
+          "title": "Microsoft 365の世界的障害、原因はネットワーク増強作業 攻撃ではないと説明",
+          "summary": "Microsoft 365の大規模障害について、マイクロソフトはネットワーク容量の増強作業に伴う技術的な問題が原因で、サイバー攻撃やAIによるものではないと説明した。Outlook・Teams・Copilotに加え、ChatGPTとClaudeのMicrosoft 365連携もほとんど動かなかった。広い範囲で復旧が進んでいる。",
+          "detail": "障害は日本時間13日未明にOutlookやTeamsで始まり、Copilotなど同社のクラウドサービスの多くに広がった。ChatGPTとClaudeのMicrosoft 365連携機能もほとんど動かなかった。いったん復旧したサーバーが再び止まる場面もあり、障害は2日目に入った。国内では佐川急便の一部サービスや政府の情報システムにも影響が出た。マイクロソフトは原因をネットワーク容量の増強作業に伴う技術的な問題とし、サイバー攻撃やAI・エージェントとは無関係と説明して謝罪した。Ars Technicaはサーバーの稼働確認の失敗が原因と報じた。NHKによると広範囲で復旧が進んでいるが、障害中のメールが後からまとめて届いたり、最終的に届かなかったりするおそれがある。解説: Microsoft 365はメールやチャット、文書作成ソフトなどをネット経由で提供するサービスで、障害中に送ったメールは相手に届いているか確認すると安全。",
+          "source_urls": [
+            "https://www.techmeme.com/261113/p28#a261113p28",
+            "https://x.com/arstechnica/status/2121264934038466703",
+            "https://x.com/verge/status/2121224024382701972",
+            "https://x.com/TechCrunch/status/2121231385310503234",
+            "https://x.com/gigazine/status/2121088237389205644",
+            "https://xtech.nikkei.com/atcl/nxt/news/24/03470/",
+            "https://xtech.nikkei.com/atcl/nxt/column/18/00001/12176/"
+          ],
+          "sources": [
+            {
+              "media": "Techmeme",
+              "kind": "news"
+            },
+            {
+              "media": "@arstechnica",
+              "kind": "x"
+            },
+            {
+              "media": "@verge",
+              "kind": "x"
+            },
+            {
+              "media": "@TechCrunch",
+              "kind": "x"
+            },
+            {
+              "media": "@gigazine",
+              "kind": "x"
+            },
+            {
+              "media": "日経クロステック",
+              "kind": "news"
+            },
+            {
+              "media": "日経クロステック",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "テクノロジー",
+          "genres": [
+            "テクノロジー"
+          ],
+          "importance": "small",
+          "rank": 1,
+          "score": 55,
+          "title": "通販サイトQoo10に不正アクセス、氏名・住所や身体的特徴が閲覧の可能性",
+          "summary": "会員3000万人超のQoo10を運営するeBay Japanが、6日の不正アクセスで個人情報が閲覧されたと発表。住所の位置座標や任意入力の身体的特徴も含む可能性。決済情報やパスワードの流出は確認されていない。",
+          "detail": "",
+          "source_urls": [
+            "https://www.itmedia.co.jp/news/article/2611/13/2000003186/"
+          ],
+          "sources": [
+            {
+              "media": "ITmedia NEWS",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "テクノロジー",
+          "genres": [
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 2,
+          "score": 50,
+          "title": "ウクライナの軍用Starlink『Starshield』に再び速度制限 迎撃に支障",
+          "summary": "ゼレンスキー大統領は、SpaceXの軍事向け衛星通信Starshieldで占領地上空を飛ぶ端末に時速161kmの速度制限が再び課され、ロシアのジェット型ドローンの迎撃が難しくなったと報告した。",
+          "detail": "",
+          "source_urls": [
+            "https://gigazine.net/news/20261113-ukraine-cant-stop-russian-strikes-starshield-limited-again/",
+            "https://x.com/JimmySecUK/status/2121226041305809302",
+            "https://x.com/TimothyDSnyder/status/2121261813656326407"
+          ],
+          "sources": [
+            {
+              "media": "GIGAZINE",
+              "kind": "news"
+            },
+            {
+              "media": "@JimmySecUK",
+              "kind": "x"
+            },
+            {
+              "media": "@TimothyDSnyder",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "テクノロジー",
+          "genres": [
+            "テクノロジー"
+          ],
+          "importance": "small",
+          "rank": 3,
+          "score": 50,
+          "title": "ラピダス、2ナノ半導体の量産開始は『27年末〜28年初頭』と社長が明示",
+          "summary": "国策半導体会社ラピダスの小池社長が、2ナノ世代の量産開始時期を2027年末〜28年初頭と明らかにした。目標の27年度に間に合わない見通しとされていた時期が具体的になった。",
+          "detail": "",
+          "source_urls": [
+            "https://news.google.com/rss/articles/CBMidEFVX3lxTFBiYU5Rci1Jak40dzNNTjE3aktaNWhMcTVJdU00WFJQWXZ3QVQ5MURQeTlxSXRRZWhYTlNQc2pHbHlBWDBLVms1SnJzVnpLd0poc205WjFXYXFNaXNRSFRoOUtqQm95YVZ0azVfZUJtbzktelhv?oc=5"
+          ],
+          "sources": [
+            {
+              "media": "BigGo ファイナンス",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "テクノロジー",
+          "genres": [
+            "テクノロジー"
+          ],
+          "importance": "small",
+          "rank": 4,
+          "score": 40,
+          "title": "ANAとJALの予約システムで障害、国内線の予約ができず 昼過ぎに復旧",
+          "summary": "13日午前、ANAとJALで国内線航空券の予約・購入ができない障害が起きた。ANAはタイムセール初日だった。両社とも昼前後までに復旧し、ANAは原因を明らかにしていない。",
+          "detail": "",
+          "source_urls": [
+            "https://www.itmedia.co.jp/news/article/2611/13/2000003178/"
+          ],
+          "sources": [
+            {
+              "media": "ITmedia NEWS",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "話題",
+      "items": [
+        {
+          "genre": "話題",
+          "genres": [
+            "株",
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "big",
+          "rank": 0,
+          "score": 88,
+          "title": "米FAA、通信障害で全米の空港に地上待機命令 極めて異例の全便離陸停止",
+          "summary": "米連邦航空局（FAA）は13日午後（日本時間14日朝）、複数の航空路管制センターでの通信障害を理由に、全米の空港で航空機の離陸を止める地上待機命令を出した。ロイターは約7000便に影響する可能性を伝えており、収集時点では解除の見通しは示されていない。",
+          "detail": "FAAは異常な状況と安全上の理由を挙げ、全米すべての空港を対象に地上待機命令を出した。広報担当者は複数の航空路管制センターに影響する通信の問題と説明し、FAAのサイトは原因を機器の障害と表示した。ダフィー運輸長官も通信の問題と説明し、アラスカ航空の社内連絡では通信とレーダーに関係しているという。ロイターは約7000便に影響する可能性を伝えた。発令前後にはFAAのウェブサイトも一時つながりにくくなった。収集時点では命令解除の見通しは示されていない。解説: 航空路管制センターは、上空の旅客機の位置を把握し進路を指示する施設。管制との通信が途絶えると安全な間隔を保てないため新たな離陸を止める措置で、遅れや欠航は日本との往来にも波及しうる。",
+          "source_urls": [
+            "https://www.nikkei.com/article/DGXZQOGN140400U6A111C2000000/",
+            "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0NNXzlFZkJseHE0RUxFZ2ZCUjlBM3V3WWhweHNuRlpzMjUwTTZPckhHR19uanpyLXBtS0c0aFVUUnBOVDBySGRqNnRsNjJBNTByVXItam1ueTBucnp0MEQ1cEg0ZG53cTZQbkRyRmVuYlZZZjZnOGY4bDBTalV2cVdNcHFDbThaM1Z5bFl3?oc=5",
+            "https://x.com/nhk_news/status/2121358917951455358",
+            "https://x.com/nhk_news/status/2121359714181366064",
+            "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EaHV3LVlaVU1qWFpUbFJCV1JrWFRnQUh0bGoyaEUtWmFESnFWM3oxcG5tSWlaUXZRTmdOX2lCVDNlaVpNNVpEZ3VEcV9MeDRGQjBmZjhtbw?oc=5",
+            "https://news.yahoo.co.jp/pickup/6602483?source=rss",
+            "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
+            "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KVGdSYm9aNFh5OXg3TnZsUGpNaGdFekJLNWVKRTF6cVJ0aUsxN2MwS195YzhhdHZzXzdwd3U4dWdCRFI5dWVOWjdXblcwOWdyUlI0a3dzV3FiOWg1OXRj?oc=5"
+          ],
+          "sources": [
+            {
+              "media": "日本経済新聞",
+              "kind": "news"
+            },
+            {
+              "media": "Bloomberg.com",
+              "kind": "news"
+            },
+            {
+              "media": "@nhk_news",
+              "kind": "x"
+            },
+            {
+              "media": "@nhk_news",
+              "kind": "x"
+            },
+            {
+              "media": "TBS NEWS DIG",
+              "kind": "news"
+            },
+            {
+              "media": "Yahoo!ニュース",
+              "kind": "news"
+            },
+            {
+              "media": "CNN",
+              "kind": "news"
+            },
+            {
+              "media": "NHKニュース",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "話題"
+          ],
+          "importance": "big",
+          "rank": 1,
+          "score": 55,
+          "title": "紅白歌合戦の出場41組が決定 初出場7組、あいみょんや米津玄師は名前なし",
+          "summary": "大みそかの第77回NHK紅白歌合戦の出場歌手が発表された。紅組20組・白組21組で、初出場は=LOVEやEBiDANなど7組。昨年出場のあいみょん、米津玄師、アイナ・ジ・エンドは含まれなかった。",
+          "detail": "NHKは13日、12月31日に放送する第77回紅白歌合戦の出場歌手を発表した。初出場は=LOVE、CUTIE STREET、Ayumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキの7組。紅組には石川さゆり（49回目）やYOASOBI、白組にはMrs. GREEN APPLEや福山雅治、TM NETWORKなどが名を連ねた。昨年出場したアイナ・ジ・エンド、あいみょん、米津玄師の名前はなく、追加発表があるかが話題になっている。X上では出場が決まった歌手やファンの投稿が数十万〜数百万回閲覧された。解説: 紅白は出場歌手を11月に一括発表し、その後に特別企画などで追加の出演者を発表することがある。",
+          "source_urls": [
+            "https://www.nhk.or.jp/kouhaku/artist77/index.html",
+            "https://news.yahoo.co.jp/pickup/6602479?source=rss",
+            "https://x.com/EBiDAN_official/status/2121098227688632549",
+            "https://x.com/ayumu__imazu/status/2121113577256014021",
+            "https://x.com/tmnetwork_2014/status/2121092210473259487",
+            "https://x.com/HANA__BRAVE/status/2121098143525925266",
+            "https://x.com/345__chan/status/2121110580132229460"
+          ],
+          "sources": [
+            {
+              "media": "nhk.or.jp",
+              "kind": "news"
+            },
+            {
+              "media": "Yahoo!ニュース",
+              "kind": "news"
+            },
+            {
+              "media": "@EBiDAN_official",
+              "kind": "x"
+            },
+            {
+              "media": "@ayumu__imazu",
+              "kind": "x"
+            },
+            {
+              "media": "@tmnetwork_2014",
+              "kind": "x"
+            },
+            {
+              "media": "@HANA__BRAVE",
+              "kind": "x"
+            },
+            {
+              "media": "@345__chan",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 2,
+          "score": 60,
+          "title": "イラン、バーレーンの米軍通信設備を攻撃したと発表",
+          "summary": "イランが中東バーレーンにある米軍の通信設備を攻撃したと発表した。G7外相会合で米国務長官がイランへの大規模戦闘は不要と述べた直後で、中東情勢の緊張が高まっている。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/nhk_news/status/2121253765630329161"
+          ],
+          "sources": [
+            {
+              "media": "@nhk_news",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 3,
+          "score": 55,
+          "title": "ヤマダデンキに不正アクセス、最大350万件の情報に影響の可能性",
+          "summary": "家電量販大手のヤマダデンキが不正アクセスを受け、最大350万件が影響を受けた可能性があるとNHKが報じた。利用者は不審なメールや連絡に注意が必要。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/nhk_news/status/2121252004827980211"
+          ],
+          "sources": [
+            {
+              "media": "@nhk_news",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 4,
+          "score": 50,
+          "title": "Xで画像を1投稿20枚まで添付可能に 利用者の話題に",
+          "summary": "X（旧Twitter）で1回の投稿に画像を20枚まで載せられるようになり、まとめ画像の投稿が数百万回閲覧されるなど利用者の間で大きな話題になった。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/_t0da_/status/2121067392017264644",
+            "https://x.com/tannen_h/status/2121093668056731965",
+            "https://x.com/kissshot51/status/2121124644065554696"
+          ],
+          "sources": [
+            {
+              "media": "@_t0da_",
+              "kind": "x"
+            },
+            {
+              "media": "@tannen_h",
+              "kind": "x"
+            },
+            {
+              "media": "@kissshot51",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 5,
+          "score": 50,
+          "title": "日本政府、防衛産業に発注の大幅削減を警告 財政制約でとロイター",
+          "summary": "ロイターの独自報道によると、日本政府は財政の制約から、防衛関連企業に対し見込まれていた発注を大きく減らす可能性を伝えた。高市政権が進める防衛力増強が縮小する恐れがある。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/Reuters/status/2121073090654310699"
+          ],
+          "sources": [
+            {
+              "media": "@Reuters",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 6,
+          "score": 45,
+          "title": "特殊詐欺に新手口『筆跡鑑定が必要』 警察署へ手書き書類の郵送を指示",
+          "summary": "警視庁によると、「筆跡鑑定が必要」として警察署宛てに手書きの書類を郵送させる新しい特殊詐欺の手口が確認された。警察を名乗る連絡には注意が必要。",
+          "detail": "",
+          "source_urls": [
+            "https://x.com/jijicom/status/2121366065410424939"
+          ],
+          "sources": [
+            {
+              "media": "@jijicom",
+              "kind": "x"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 7,
+          "score": 45,
+          "title": "自衛官の給与引き上げ法が成立 全年代で基本給を増額",
+          "summary": "全年代の自衛官の基本給を引き上げる改正法が参院本会議で成立。基本給は月額3.4%上がり、一般幹部候補生は月29万9600円に。高卒自衛官の生涯年収は初めて3億円を超える見込み。",
+          "detail": "",
+          "source_urls": [
+            "https://news.yahoo.co.jp/pickup/6602480?source=rss"
+          ],
+          "sources": [
+            {
+              "media": "Yahoo!ニュース",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "テクノロジー",
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 8,
+          "score": 40,
+          "title": "古いiPadでも大規模AIを動かせる無料ツール『smolmaxxing』公開",
+          "summary": "AI実行ソフトllama.cppを改良し、メモリ1GBの端末でも160億パラメータ規模のAIを端末内で動かせるようにするオープンソースのツールが公開された。2013年発売の初代iPad Airで動作を確認。",
+          "detail": "",
+          "source_urls": [
+            "https://gigazine.net/news/20261113-smolmaxxing/"
+          ],
+          "sources": [
+            {
+              "media": "GIGAZINE",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "話題",
+          "genres": [
+            "話題"
+          ],
+          "importance": "small",
+          "rank": 9,
+          "score": 40,
+          "title": "アジアプロ野球CS、侍ジャパンが韓国に9-5 決勝進出に王手",
+          "summary": "東京ドームでの韓国戦で、宗山の決勝3ランなどで日本が乱打戦を制し開幕2連勝。プロが出場した韓国戦は12連勝となった。",
+          "detail": "",
+          "source_urls": [
+            "https://news.yahoo.co.jp/pickup/6602475?source=rss"
+          ],
+          "sources": [
+            {
+              "media": "Yahoo!ニュース",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "genre": "論文",
+      "items": [
+        {
+          "genre": "論文",
+          "genres": [
+            "論文"
+          ],
+          "importance": "small",
+          "rank": 0,
+          "score": 55,
+          "title": "画像を理解するAIの「目」、別途事前に鍛えなくても同じ性能とMetaが確認",
+          "summary": "画像と言葉を扱うAIで、画像処理の部品を別に事前学習する必要はなく、画像専用の部品を持つことが重要だと同条件の比較で示した。開発手順の無駄を省ける。",
+          "detail": "画像と言葉を扱うAIは、別に学習済みの画像処理部品（ビジョンエンコーダ）を付けるのが一般的だが、各社でデータや計算量が違うため、どの要素が効いているのか比べられなかった。MetaとNYUのチームは、すべてのモデルを同じデータ・同じ計算量で一から学習させ、要素を切り分けて比べた。その結果、本体と一緒に一から学習した画像部品は事前学習済みのものと同等で、画像専用の部品がないモデルは本体を大きくしても画像理解で劣った。17億パラメータの本体では、画像専用の部品を本体の前半に組み込む方式が画像の質問応答で平均49.2%となり、部品なしの44.8%を上回った。ただし、外部データで事前学習する利点までは否定できていない。解説: パラメータはAIの規模を表す数字。画像部品を本体と一体で育てる設計で十分なら、開発の手間を減らせ、最初の応答が出るまでの時間も短くできる可能性がある。",
+          "source_urls": [
+            "https://www.alphaxiv.org/abs/2611.17334"
+          ],
+          "sources": [
+            {
+              "media": "alphaXiv",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "論文",
+          "genres": [
+            "論文"
+          ],
+          "importance": "small",
+          "rank": 1,
+          "score": 54,
+          "title": "ロボット学習用に、部屋の3Dスキャンと人の作業映像を大量にそろえて公開",
+          "summary": "ロボットに作業を教えるデータの不足に対し、1589件の3Dスキャンと131時間の人の作業映像を同じ空間座標でそろえた。仮想環境での訓練にそのまま再利用できる。",
+          "detail": "大規模AIはロボットを直接動かせるようになったが、物に触れる長い作業ではまだ失敗しやすい。上達には、人の手本の動きと、試行錯誤できる仮想環境の両方が必要だった。研究チームは実寸の3Dスキャン1589件と、頭に付けたカメラでの作業記録4230本（74種類・131時間）を集め、両者を共通の空間に重ねた。スキャンは物理的に動かせるシミュレーション環境に変換し、人の動きはロボットの全身の動きに置き換えられる。8段階の作業1件では、使っていない30通りの開始状態すべてで成功したが、この1例だけで実機ロボットでの幅広い性能は示せていない。解説: 3Dスキャンは現実の部屋を立体データにしたもの。環境と手本を同時に記録するやり方が広まれば、家庭や工場で働くロボットの訓練データを効率よく増やせる可能性がある。",
+          "source_urls": [
+            "https://www.alphaxiv.org/abs/2611.17060"
+          ],
+          "sources": [
+            {
+              "media": "alphaXiv",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "論文",
+          "genres": [
+            "論文"
+          ],
+          "importance": "small",
+          "rank": 2,
+          "score": 53,
+          "title": "同じデータを繰り返し学ばせるAIで、計算を最大48%節約する方法",
+          "summary": "良質なデータが尽きて同じデータを何周も学習させる場合、各単語の最終段の情報を次の単語の入力に戻す「潜在フィードバック」で、計算を最大48%、データを最大47%減らせると示した。",
+          "detail": "AIの学習用の良質なデータは不足しつつあり、同じデータを何回も学習させると1回ごとの効果が落ちていく。研究チームは、各単語を処理した最上層の状態を次の単語の入力に加える「潜在フィードバック」を、同じ計算量で単に周回数を増やした通常のTransformerと比べた。6000万〜2億7100万パラメータのモデルで試し、同じ精度に達するまでの計算量を最大48%、必要な固有データを最大47%減らせた。結果から作った予測式は、7億7800万パラメータのモデルの誤差を0.3%以内で当てた。一方、モデルの大きさに比べてデータが極端に少ない場合は不利になり、検証も1種類の手順・データセットに限られる。解説: Transformerは今の対話AIの基本構造。データ不足が学習の壁になるなか、同じデータからより多くを引き出せれば開発費の削減につながりうる。",
+          "source_urls": [
+            "https://www.alphaxiv.org/abs/2611.latent-feedback-transformers-scaling-law"
+          ],
+          "sources": [
+            {
+              "media": "alphaXiv",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "論文",
+          "genres": [
+            "論文"
+          ],
+          "importance": "small",
+          "rank": 3,
+          "score": 52,
+          "title": "AIエージェントが、中身を説明できる脳活動の予測モデルをコードで手作り",
+          "summary": "ニューラルネットは予測が得意でも理由が分からない。AIエージェントに特徴や重みをコードで直接書かせ、人が読める予測モデルを作る手法で、視覚野の活動予測は既存の解釈可能な手法を上回った。",
+          "detail": "脳科学では深層学習が脳活動をよく予測するが、刺激のどの特徴が効いているのか分からず、説明の道具としては使いにくい。Microsoft Researchなどのチームは、通常の学習（誤差逆伝播）を使わず、AIエージェントが仮説を立てて重みや特徴をコードで書き、評価点を見て直していく「iWSP」を提案した。まず足し算や感情分類をこなすTransformerを小さく正確に手作りできることを確かめた。視覚野の予測では初期視覚野と腹側の領域で既存の解釈可能なモデルを上回ったが、腹側ではAlexNetには届かなかった。言語のfMRIデータでは、物語の位置と撮像の区切りのタイミングが重なるというデータ側の偏りも見つけた。解説: fMRIは脳の血流の変化から活動を測る装置。中身を説明できる予測モデルを自動で作れれば、AIを科学的な発見の道具として使いやすくなる。",
+          "source_urls": [
+            "https://www.alphaxiv.org/abs/2611.interpretable-weight-space-programming"
+          ],
+          "sources": [
+            {
+              "media": "alphaXiv",
+              "kind": "news"
+            }
+          ]
+        },
+        {
+          "genre": "論文",
+          "genres": [
+            "論文"
+          ],
+          "importance": "small",
+          "rank": 4,
+          "score": 51,
+          "title": "行動が下手なAIでも先生役は務まる 後から採点させてエージェントを強化",
+          "summary": "選択肢に確率を返す「判断モデル」は、自ら行動するより、作業後に各行動を採点する先生役で力を発揮すると示した。小型AIの家事模擬課題の成功率が72.8%から82.9%に上がった。",
+          "detail": "判断モデルは「どの選択肢がよいか」を確率付きで答えるAIで、これまで主に自ら行動する役として評価されてきた。研究チームは、行動役・審判役・先生役の3つの使い方を比べた。行動役では、先に片付けるべき小目標より簡単な目標に引っ張られて失敗したが、作業全体を見た後で各行動が役立ったかを問うと、有用な行動を正しく見分けられた。この採点を強化学習（GRPO）に加えると、15億パラメータのQwen2.5の成功率は家事を模した文章環境ALFWorldで72.8%から82.9%、ネット通販を模したWebShopで56.8%から71.4%に上がった。ただし検証は行動数に上限がある2つの文章環境に限られる。解説: 強化学習は、試行の結果に点数を与えて良い行動を増やす学び方。後から振り返って採点するほうが判断しやすい性質を使えば、小さなAIエージェントを安く鍛えられる可能性がある。",
+          "source_urls": [
+            "https://www.alphaxiv.org/abs/2611.17167"
+          ],
+          "sources": [
+            {
+              "media": "alphaXiv",
+              "kind": "news"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
