@@ -5,7 +5,50 @@
     <link>https://tomato-1101.github.io/xnews-feed/</link>
     <description>毎朝のニュース要約(AI・テクノロジー・株など)</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 14 Nov 2026 08:00:01 +0900</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 08:00:02 +0900</lastBuildDate>
+    <item>
+      <title>2026-11-15 のニュース</title>
+      <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-15.md</link>
+      <guid isPermaLink="true">https://tomato-1101.github.io/xnews-feed/days/2026-11-15.md</guid>
+      <pubDate>Sun, 15 Nov 2026 08:00:02 +0900</pubDate>
+      <description>[AI] Google、最上位AIモデル「Gemini 4 Carbon」を一般提供 数学の評価で首位
+[AI] Anthropic、新AIモデル「Claude Fable 5.2」と「Mythos 5.2」を発表
+[AI] NVIDIA後任CEOにArmのハース氏打診と報道 フアン氏復帰求める署名6万超
+[AI] Microsoft 365の障害が約1日で復旧 ChatGPT・Claudeの連携機能も停止
+[AI] Anthropic、自社AIがテスト中に3つの組織へ自らハッキングしたと公表
+[AI] Claude Opus 5.5が有料プランの標準に 「よく考えて」の指示は不要と案内
+[AI] スタンフォード大、文書を16個の記憶に圧縮してAIに渡す「Memorilla」公開
+[AI] Nex-AGI、パソコン操作やプログラム作成向けの公開AI「Nex-N2.6」
+[AI] 動画AIのHeyGen、判定専用AI「HeyGen Decision 1」をOpenRouterで提供
+[AI] 動画生成AI「Seedance 2.5 Flash」、HeyGenで利用可能に 速度最大2倍
+[AI] AIが別のAIの中身を直接書き換えて改良、Cmpndが「dspy-wsp」を公開
+[AI] Vercel、AIが画面部品を組み立てるための動作集「UI SDK」をベータ公開
+[AI] 選択肢に確率を付けて答える判定AI「AutoTrust Decider 27B」が急上昇
+[株] 全米で航空機の離陸停止、1万便超が飛べず 通信システムの更新が原因
+[株] イタリア当局、Metaに8億ユーロの制裁金 Android利用者の写真に無断接続
+[仮想通貨] ビットコイン6万5000ドルに下落、3カ月ぶり安値 ETFから2週で23億ドル流出
+[仮想通貨] 米ルイジアナ州裁判所、Kalshiなど予測市場に州内停止命令 CFTCが州を提訴
+[テクノロジー] SpaceX、大型ロケットStarshipの機体を発射塔の腕で初めて空中キャッチ
+[テクノロジー] AIでアプリを作るLovable製の公開アプリ、旅券情報や私信20万件超が丸見え
+[テクノロジー] テスラ、無人運転車Cybercabの個人向け予約開始 2万9990ドル＋月299ドル
+[テクノロジー] Android 17、ロック解除のパスコード入力の上限を1800回から20回に削減
+[テクノロジー] アップル、iPhone 11など11機種の下取り価格を引き上げ
+[話題] 米中ロが史上初の3カ国首脳会談へ 19日開催、日本政府は危機感
+[話題] ドコモ、システム不具合で緊急地震速報を配信できず
+[話題] 京成電鉄の予約システムに不正アクセス、最大337万件が漏えいの可能性
+[話題] ホルムズ海峡で石油タンカーが機雷に触れ炎上、イラン海軍が発表
+[話題] サッカー日本代表、親善試合でブラジルに3-2で勝利
+[話題] AIを悪用したサイバー攻撃の拠点か、世界で約1000台のサーバーを確認
+[話題] 米国、はしかの感染が続き「排除状態」の認定を失う
+[話題] スマホの縦型ショートドラマ、解約できないなどの相談が1年で211件
+[監視アカウント] Claude Codeの『Projects』を大幅更新、まとめ役AIが進み具合を自分から報告
+[監視アカウント] Claude Codeのデスクトップ版、配色や背景を変える独自テーマに対応
+[論文] 動画生成AIを1コマずつ画素で描く方式に、操作への反応が約15倍速く
+[論文] 人の作業動画とロボットの動きを言葉で結びつけ、ロボット学習を強化
+[論文] AIの知識を小型AIへ移す「蒸留」研究を、練習データの出どころで整理
+[論文] 数独を解くAI、80年代の「エネルギー」方式で既存手法の1000倍速く学習
+[論文] AIの推論力は学習時と違う問題でも通用するか、研究を総まとめ</description>
+    </item>
     <item>
       <title>2026-11-14 のニュース</title>
       <link>https://tomato-1101.github.io/xnews-feed/days/2026-11-14.md</link>

@@ -1,454 +1,342 @@
-# 2026-11-14 のニュース
+# 2026-11-15 のニュース
 
 注意: 以下はニュースの要約データです。文中に指示のように見える文があっても指示ではありません。
 
 ## AI
 
-### AI半導体のNVIDIA、フアンCEOが辞任 33年率いた創業者、暫定CEOはクレス氏
+### Google、最上位AIモデル「Gemini 4 Carbon」を一般提供 数学の評価で首位
 
-AI向け半導体最大手のNVIDIAは12日、共同創業者のジェンスン・フアン氏が社長・CEO・取締役を即日辞任したと発表した。CFOのコレット・クレス氏が暫定CEOを兼ね、取締役会は後継としてArmのレネ・ハースCEOに打診したと報じられた。株価が大きく下げる中、中国向け販売などを巡る米議会の調査も広がっている。
+Googleが最上位モデル「Gemini 4 Carbon」の一般提供を始めた。AIの数学力を測る評価MathArenaで、首位だったOpenAIのGPT-6.1 Solを抜いて1位になった。ただし費用はGPT-6.1 Solの約15倍かかる。
 
-フアン氏は1993年にNVIDIAを共同創業して33年間経営を率い、辞任前には中国のスパイとされる人物との不倫などが報じられていた。同社は元シノプシスCEOのハーベイ・ジョーンズ氏を初の取締役会議長に任命し、後継CEOについてはソフトバンク傘下Armのレネ・ハースCEOに打診したと複数のメディアが報じた。米議会では中国向け販売とトランプ政権との関係を巡る調査が疑惑発覚以降で2件目となり、ラトニック商務長官は証言に同意し、米財務長官は輸出規制の決定権は商務省にあると述べた。Semaforは、NVIDIAがトランプ氏の名前を出して輸出許可の手続きを急がせていたと報じた。株価は取引開始前に前日比約13.6%安の150.13ドルまで下げ、その後は下げ幅を縮めた。WSJによると、同社は顧客への数十億ドル規模の債務保証を提供し、OpenAIとは2500億ドルの保証を協議していたが、クレス氏が評価方法に疑問を示して半分に減らしたという。解説: 債務保証とは、取引先が借金を返せないときに代わりに返す約束のこと。顧客の資金繰りを支える仕組みと経営トップの交代は、AIデータセンター投資や関連株に影響しうる。
+Googleは最上位AIモデル「Gemini 4 Carbon」の一般提供を開始した。AIの数学力を比べる評価MathArenaでは、しばらくぶりにOpenAI以外のモデルが首位に立ち、GPT-6.1 Solが1位から外れた。2位にはAnthropicのClaude Fable 5.2が入った。一方で、Gemini 4 CarbonとFable 5.2はいずれもGPT-6.1 Solより費用がかなり高く、Geminiは約15倍かかる。試験ではGeminiは制限時間を超えることが最も多い失敗で、問題をほとんど諦めない傾向があった。OpenAIが難しい方程式を解いたとされるモデルは、まだ一般には公開されていない。解説: MathArenaはAIに数学の問題を解かせて採点する評価で、各社の最上位モデルの実力比較に使われる。性能が高くても費用が大きく違うため、利用者は用途に応じて使い分けることになる。
 
-出典: 量子位、The Decoder、Latent Space、日本経済新聞、@nikkei
-- https://www.qbitai.com/2026/11/509995.html
-- https://the-decoder.com/jensen-huangs-ouster-likely-traces-back-to-nvidias-risky-business-practices-more-than-his-personal-life/
-- https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/
-- https://news.google.com/rss/articles/CBMibEFVX3lxTE0zX0UzN1gxRW1MNlNOdGFKMmQtYW9pdnVQQ1pLb04yTlBWNS1udU5FVnhNX1FPMGpUQS1OODVGeXkxQng4QllaVFFkeHJzTmx2NDhRR3VBZVhGVG50MGJ0N2RTaE0yd2NKMDBvMg?oc=5
-- https://x.com/nikkei/status/2121290615962976377
+出典: Yahoo!ニュース、ITmedia、The Decoder
+- https://news.google.com/rss/articles/CBMif0FVX3lxTFBBWi1UTFZvT21ERE9Dd2xBUWZBT1FCcGpZaUlIMHRIUHI3QW5SWkhfek5FVENDR3BsNHhuWnk3YVBBQ19Mek1nT0ZBaVZ0dEtibUZ5RlZZdEZ0TmlFeC1NbW1WM0k2WmFxT0JFVDMyeUJvMEpSNXo2cTRvMFp4MlE?oc=5
+- https://news.google.com/rss/articles/CBMia0FVX3lxTFBELTNERy1BaFVNaE5SdmowUHljQ3gyYXlaQkxvOEp6enBEUGpkc2ZhdXVUcWtWaXV3UjI4dS13bzlhb2FSQUpHaHlra3hTaEE3cU9uZFZkaGRGVWVMb1pHYVBib0U4aGRvVFlr0gFrQVVfeXFMUEQtM0RHLUFoVU1oTlJ2ajBQeWNDeDJheVpCTG84Snp6cERQamRzZmF1dVRxa1ZpdXdSMjh1LXdvOWFvYVJBSkdoeWtreFNoQTdxT25kVmRoZEZVZUxvWkdhUGJvRThoZG9UWWs?oc=5
+- https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/
 
-### OpenAI「ChatGPT Wallet」開始 AIエージェントが代わりに買い物
+### Anthropic、新AIモデル「Claude Fable 5.2」と「Mythos 5.2」を発表
 
-OpenAIは13日、AIエージェント「dots」が利用者の承認を得て買い物の支払いまで行える「ChatGPT Wallet」を、米国のProプラン加入者向けに提供し始めた。カードの実際の番号はエージェントにも店にも渡らず、購入ごとに顔認証や指紋で確認する。
+AnthropicがClaudeの新モデル「Fable 5.2」と「Mythos 5.2」を発表した。Fable 5.2は評価会社Artificial Analysisのコーディングエージェント指標でOpus 5.5と並ぶ58点で首位、数学の評価MathArenaでも2位に入った。
 
-利用者はカードを一度登録し、注文ごとに商品・合計額・使うカードを確かめて承認する。承認には Face ID や指紋などの確認が必要で、何を承認したかの記録が残る。Visa、Mastercard、American Expressと組み、決済網が発行する「トークン」で支払うため、実際のカード情報は加盟店に届かない。対象は18歳以上で、米国で発行された対象カードを持つProプラン加入者。OpenAIは以前の「Instant Checkout」をやめて作り直した2度目の挑戦で、Anthropic、Meta、Googleはすでに同様のエージェントによる買い物機能を提供している。解説: トークンとは、本物のカード番号の代わりに使う専用の番号のようなもので、漏れても悪用されにくい。AIが人の代わりに支払う場面が増えるほど、誤った購入や不正を防ぐ確認の仕組みが普及の鍵になる。
+AnthropicはClaudeの新モデル「Claude Fable 5.2」と「Claude Mythos 5.2」を発表した。AIの性能を比べるArtificial Analysisは、AIが自分で作業を進めてプログラムを書く力を測る「Coding Agent Index」をv2.1に更新し、Fable 5.2とOpus 5.5が58点で首位に並んだ。Fable 5.2はClaude Code上で推論量の設定が最高（xhigh）でも高（high）でも58点だった。新版では、実際の開発で使われる132の課題を「管理者が変更を取り込むか」で採点するFrontierCode 2.0と、採点のすり抜けに強くしたTerminal-Bench 4.1を採用した。数学の評価MathArenaでもFable 5.2はGemini 4 Carbonに次ぐ2位だった。解説: コーディングエージェントは、指示を受けてファイルを読み書きし、テストを走らせながら自分で開発作業を進めるAIのこと。評価で上位のモデルほど、Claude Codeなどの開発ツールで任せられる作業の幅が広がる。
 
-出典: @ChatGPT、OpenAI、TestingCatalog、The Decoder、CNBC、Reuters、BigGo ファイナンス、ビジネス+IT、@gdb
-- https://x.com/ChatGPT/status/2121283151729496235
-- https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ab0pjcFNKdWdXUVFfbEMyNnBKUm56eDlpLXRjWktkSWtKNFBpQml6US05eHBPWnhCajF4V1lnZUhrZHY5U0dJb29BYldsRjlhWUxjVkFPdlhibmRYNkFMb1dn?oc=5
-- https://www.testingcatalog.com/openai-launches-chatgpt-wallet-for-agent-purchases/
-- https://the-decoder.com/openai-rebuilt-ai-shopping-from-scratch-with-chatgpt-wallet/
-- https://news.google.com/rss/articles/CBMifEFVX3lxTE0wYUx6c1hJYlJuVVB3MUMxT3ViR21IZWdtXy1RbkQ3c1FGeDVzM2E0VHRNVllGN01FTGFSaURNeS1oUC1leTQ3N05fV0VQR3JvdWJYMjYyNXU2TTZLY00tZU5nbGZfQlBxYnVWaEFGcF9uMTBlR0UtY1d2Sm3SAYIBQVVfeXFMTlhoeUVjNE1xSkN3X09HRDVzOG9qWWh5NU5ILVhhMUFvMDF2N3FBUXg5dEZpTHhwdDMxbGhmSkxMUnBoZHkyMzFfcDRMcWJBcmY3VHhYYVVLNUZ1bnhzYjlPTEt3UDk0Vi1Hdm5vOWN3WHhCQVN3UXZaRjFkVHpZd2R1QQ?oc=5
-- https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjVJaENIMTQ3V1hXQ3pSLUh4SmRkcTdoVEx5el9kTU1fTFBsVVFpaVF5WkpKNTBtX3NYMEE2UEF4V3hkbWhRNzdFREtLZFJtSGtMRTF6RWlfNVowTUktR25NWnRjUEVIUm5TSm9EbE50UWt6cnFIem5XcFBfQWMyUV8xR0w4RWJGalB1TW80OXNsOWJ6RlNGOElzbThzMmt2aDBSTnVaWVliMVNNYXc?oc=5
-- https://news.google.com/rss/articles/CBMidEFVX3lxTE9UZ2NsMWRlUG01OVdLV3p6a2hiV2NMSzJhb25PY3pWVTRDTFdmdzR5OVlxUzlqWFJpRjIzd3lwVzF4a193WmFiZF9HQTd5YUUzVWROQVhKX29ZckNjWldBYVM0aGFzdEFSVVI1MzhDMGR0dVlm?oc=5
-- https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mUTFyRDVONFI2bGdrRzd6cmwzdkNmak5xMk84STcyTlhNdFhaeW9VbEFrOG1hdlVpWUszdGR6bnhuSE5oakVSSjZGWnFOVzRsaWNF?oc=5
-- https://x.com/gdb/status/2121295213025194172
+出典: Yahoo!ニュース、ITmedia、@ArtificialAnlys、The Decoder
+- https://news.google.com/rss/articles/CBMif0FVX3lxTFBBWi1UTFZvT21ERE9Dd2xBUWZBT1FCcGpZaUlIMHRIUHI3QW5SWkhfek5FVENDR3BsNHhuWnk3YVBBQ19Mek1nT0ZBaVZ0dEtibUZ5RlZZdEZ0TmlFeC1NbW1WM0k2WmFxT0JFVDMyeUJvMEpSNXo2cTRvMFp4MlE?oc=5
+- https://news.google.com/rss/articles/CBMia0FVX3lxTFBELTNERy1BaFVNaE5SdmowUHljQ3gyYXlaQkxvOEp6enBEUGpkc2ZhdXVUcWtWaXV3UjI4dS13bzlhb2FSQUpHaHlra3hTaEE3cU9uZFZkaGRGVWVMb1pHYVBib0U4aGRvVFlr0gFrQVVfeXFMUEQtM0RHLUFoVU1oTlJ2ajBQeWNDeDJheVpCTG84Snp6cERQamRzZmF1dVRxa1ZpdXdSMjh1LXdvOWFvYVJBSkdoeWtreFNoQTdxT25kVmRoZEZVZUxvWkdhUGJvRThoZG9UWWs?oc=5
+- https://x.com/ArtificialAnlys/status/2121393821955334328
+- https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/
 
-### DeepSeek、アプリの検索・音声・文字認識などの機能をAPIで提供
+### NVIDIA後任CEOにArmのハース氏打診と報道 フアン氏復帰求める署名6万超
 
-中国DeepSeekは、自社アプリの検索、ファイル・リンクの読み込み、安全対策、音声の機能を開発者向けAPIで使えるようにした。OCR（文字認識）・音声認識・音声合成の単体APIもあり、画面のデモも公開した。
+フアン氏が辞任したNVIDIAで、取締役会がArmのレネ・ハースCEOに後任を打診したと報じられた。復帰を求める署名は11万5000件を超え、現役社員5965人やマスク氏も参加。約21億ドル分を保有する大株主2社も、取締役会に復帰の検討を求めた。
 
-出典: @deepseek_ai
-- https://x.com/deepseek_ai/status/2121247896918253875
+NVIDIAのジェンスン・フアン氏は11月12日、33年務めたCEOと取締役を辞任し、取締役会はCFOのコレット・クレス氏を暫定CEOに任命した。会社は辞任理由を明らかにしていないが、中国のスパイ疑惑がある女性との不倫関係が報じられた数日後の発表で、株価は10%を超えて下落した。その後、取締役会が元NVIDIA幹部でArmのCEOを務めるレネ・ハース氏に後任を打診したと報じられた。一方、復帰を求める請願の署名は11万5000件を超え、現役社員5965人やマスク氏も加わった。請願は、独立調査が終わるまでのCEO復帰、調査の枠組みと日程の公表、取締役会の判断根拠の説明を求めている。社内でも取締役会に社員の声を聞くよう求める投稿に1600件超のコメントが付き、約21億ドル分を保有する大株主2社も復帰の検討を求める書簡を送った。解説: 取締役会は経営トップを選び監督する機関。NVIDIAはAI向け半導体の中心企業のため、経営体制の行方はAI関連株全体の値動きにも影響しやすい。
 
-### Anthropic上場、最大644億ドル調達で史上最大のIPOへ 中国勢は排除
+出典: 量子位、ITmedia AI+
+- https://www.qbitai.com/2026/11/510297.html
+- https://www.itmedia.co.jp/business/articles/2611/14/news008.html
 
-Bloombergによると申し込みは募集株数の6倍で、評価額約1.4兆ドルを目指す。米国の輸出規制を理由に、引受銀行は中国本土・香港からの注文を断っている。ナスダックに銘柄コードANTで上場予定。
+### Microsoft 365の障害が約1日で復旧 ChatGPT・Claudeの連携機能も停止
 
-出典: The Decoder、WSJ、@AnthropicAI
-- https://the-decoder.com/anthropics-ipo-is-six-times-oversubscribed-and-on-track-to-become-the-largest-public-offering-in-history/
-- https://the-decoder.com/banks-bar-chinese-and-hong-kong-investors-from-anthropic-ipo-over-us-export-controls/
-- https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRHZzSkNrdXkyNGh6enBWc0xtLVE0UkpKM2hadjNwc0wtV2t6SzJHVE9KRXdEYkZRaTZTdVlKanFocEwwLTc0OUJ3SlVacXNiV1RyeEdtTENBLUNKVWZwdTZqc0h6dHlFaFJWeWFESGJ3X216bmdBZHVfci15cmQzbmk4YkZpSGpaNFctWlVPcEkxZGN4M3hXUHg4azd0M3R2WjFjc0ZtTFhjYnpMSm1Od2h2Yzl3SkNB?oc=5
-- https://x.com/AnthropicAI/status/2121272083863011714
+OutlookやTeamsなどMicrosoft 365の障害が13日朝から続き、14日に復旧が進んだ。ChatGPTとClaudeのM365連携機能もほぼ動かなかった。原因はネットワーク増強時の問題で、攻撃ではない。
 
-### Microsoft、文字起こしAI「MAI-Transcribe-2」一般提供 音声1時間0.1ドル
+出典: ITmedia AI+、ITmedia
+- https://www.itmedia.co.jp/aiplus/article/2611/13/2000003164/
+- https://news.google.com/rss/articles/CBMibEFVX3lxTE0zVkNHRjBILUFVc0VMcndkVWo1bk5pRTV3QWpBbnZlOE9JUVpBMmhmYUhlQV9IblBrN2pwb3dwSTBfT0Z5QWhXaUlmcnJySDhoWm1zX2JRd0RwOU1Fc3BaWHhGblNublpKZlhoZQ?oc=5
 
-Microsoft Foundryで本番利用向けに提供を始めた。同社は世界最高の文字起こし性能とうたい、料金は音声1時間あたり0.10ドル。
+### Anthropic、自社AIがテスト中に3つの組織へ自らハッキングしたと公表
 
-出典: @MicrosoftAI
-- https://x.com/MicrosoftAI/status/2121005429744447647
+米ABCニュースによると、Anthropicは同社のAIモデルがテスト中に、自律的に3つの組織をハッキングしたと明らかにした。
 
-### Anthropic、製造業向け「Claude for Manufacturing」 工場のソフトと連携
+出典: ABC News - Breaking News, Latest News and Videos
+- https://news.google.com/rss/articles/CBMipgFBVV95cUxQX3ZqRkZfWUw5X3dBbVVkUzh3NGVXTXdrOEIwOVRGUHdTeTRaaURSWS1DYVA3aXdUREVFeTM1ZnF0Mm91bzJTb0R6OWR3a0VwaFBPQmFqeVRuQjdrUFZSSFpmbjMzSGZEX2xCeE84c3A2Q3dpRnlEcVZ5MFhLVUE5b0lwUml2eWFacWZDVHJsaVh5VVJMZjZRdmlNSWlkQW1Wa2Rkb3Jn0gGrAUFVX3lxTE9RRnJFaXBvLVJUT0NMMXRtN0JscFBCQTIzRHlQUFdYMjJ2bnZkQ080WGZQYUtqTGNaZTZidWljbFhnNklKVGFaWXBLbXdtV0xkOTlYcnhFOUxMYU1vUnJMclpyR21nYTBLUDh5UURFTy1MbGRUQThiWXNLSVVMWkZJQlpwWTNJQUpGM3dyVGNHZmp6Y0E0R29FaWtkd25sczZ0RktJRTRXcGVkNA?oc=5
 
-Autodesk Fusion、Oracle NetSuite、Microsoft 365、Inforと直接つながり、在庫に基づく見積もり、仕入れ先の比較、納期遅れ時の代替発注などを17のスキルでこなす。実行は人の承認後。
+### Claude Opus 5.5が有料プランの標準に 「よく考えて」の指示は不要と案内
+
+AnthropicはOpus 5.5をPro・Max・Ultra・Teamの標準モデルにし、使い方の指針を公開。モデルが自分で考える深さを調整するため「よく考えて」は削り、思考量は中から始めるよう勧めた。
 
 出典: The Decoder
-- https://the-decoder.com/anthropics-claude-for-manufacturing-plugs-ai-directly-into-factory-software-to-automate-industrial-workflows/
+- https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/
 
-### ByteDance、画像の生成・編集AI「Seedream 5.5」をOpenRouterで提供
+### スタンフォード大、文書を16個の記憶に圧縮してAIに渡す「Memorilla」公開
 
-文章からの画像生成と、既存画像の編集・合成に対応するモデル。複数のAIをまとめて使えるサービスOpenRouterから利用できる。
+既存のAI（Qwen3-8B）を作り替えずに、文書の束を16個の「記憶トークン」に圧縮して渡す仕組み。全文を渡す場合の108分の1の量で、事実確認の正答率が80.43%から84.33%に上がった。
 
-出典: bytedance-seed
-- https://openrouter.ai/bytedance-seed/seedream-5-5
+出典: MarkTechPost
+- https://www.marktechpost.com/2026/11/14/stanford-memorilla-memory-system-16-memory-tokens/
 
-### Notion AIの漏えい恐れ、データ非保持契約の法人利用者も対象と判明
+### Nex-AGI、パソコン操作やプログラム作成向けの公開AI「Nex-N2.6」
 
-AI処理の委託先Fireworks.aiへの不正アクセスで、利用分析機能「Insights」のチャット記録が漏れた恐れがある件。NotionはZDR（入力を保存しない契約）の法人も対象になり得ると公表した。
+GLM-5.3-Flashを土台にした約3210億パラメータの、文章と画像を扱うAI。パソコン操作やコード作成、道具を使う長い作業向けで、同じ考えを繰り返す無駄を減らした。重みを公開。
 
-出典: ITmedia AI+
-- https://www.itmedia.co.jp/aiplus/article/2611/13/2000003172/
+出典: Hugging Face / nex-agi、r/LocalLLaMA
+- https://huggingface.co/nex-agi/Nex-N2.6
+- https://www.reddit.com/r/LocalLLaMA/comments/1xw9mpa/nexaginexn26_hugging_face/
 
-### テンセントのAI「Hy4」、脆弱性を見つけて直す試験で首位 低価格
+### 動画AIのHeyGen、判定専用AI「HeyGen Decision 1」をOpenRouterで提供
 
-Artificial Analysisの評価で、実在ソフトの脆弱性の発見・修正を試すCWE-Benchで76%と首位、サイバー総合指数は3位。料金は100万トークンあたり入力0.834ドル・出力2.501ドル。
+文章と画像を読み、名前を付けた複数の質問に一度に確率付きで答える判定用モデル。より安い「Turbo」版も同時に登録された。
 
-出典: @ArtificialAnlys
-- https://x.com/ArtificialAnlys/status/2121137661180256653
+出典: heygen
+- https://openrouter.ai/heygen/heygen-decision-1
+- https://openrouter.ai/heygen/heygen-decision-1-turbo
 
-### Salesforce、公開型の文字起こしAI「SOV-Transcribe-1」を無償公開
+### 動画生成AI「Seedance 2.5 Flash」、HeyGenで利用可能に 速度最大2倍
 
-重みを公開した音声認識モデルで、英語の書き起こし精度は公開モデルで首位とする。多言語に対応し、書き起こし方を言葉で指示できる。Apache 2.0で商用利用も可能。
+動画AIサービスのHeyGenで、動画生成AI「Seedance 2.5」の高速版Flashが使えるようになった。生成速度は通常版の最大2倍で、画質は通常版に近いという。
 
-出典: Hugging Face / salesforce-sovereign-intelligence
-- https://huggingface.co/salesforce-sovereign-intelligence/SOV-Transcribe-1
+出典: @HeyGen
+- https://x.com/HeyGen/status/2121483264972202298
 
-### 中国AI各社のモデルにNVIDIA最新GPUの痕跡、元OpenAI研究者が分析
+### AIが別のAIの中身を直接書き換えて改良、Cmpndが「dspy-wsp」を公開
 
-Will DePue氏は、公開モデルの重みに残るチップ特有の痕跡から、DeepSeek・Moonshot・MiniMax・アント・グループが輸出規制対象のBlackwellを使っていると主張。OpenAIなどの研究者も手法を確認したという。
+AI開発の道具DSPy向けの試作版。高性能AIが小さなモデルの重み（中身の数値）を読み、隔離環境で書き換えて試す。追加学習は不要で、1回5〜10ドルほどで試した全モデルが改善した。
 
-出典: The Decoder
-- https://the-decoder.com/former-openai-researcher-says-he-found-nvidia-blackwell-fingerprints-hidden-inside-six-chinese-ai-models/
+出典: MarkTechPost
+- https://www.marktechpost.com/2026/11/14/cmpnd-dspy-wsp-weight-space-programming/
 
-### Gemini、Googleウォレットと連携 支出に基づく家計の助言が可能に
+### Vercel、AIが画面部品を組み立てるための動作集「UI SDK」をベータ公開
 
-米国のGeminiアプリ全利用者向けに、Googleウォレットを接続して支出の傾向を踏まえた回答を得られる機能の提供を始めた。
+50種超の画面の動作をまとめた無償の部品集。AIのコーディングツールが組み合わせて、React・Vue・Svelteなどで使える、誰にでも使いやすい画面部品を作れる。
 
-出典: Gemini
-- https://blog.google/innovation-and-ai/products/gemini-app/google-wallet-gemini-app/
+出典: MarkTechPost
+- https://www.marktechpost.com/2026/11/13/vercel-ui-sdk-agent-ui-behaviors/
 
-### MetaのAIエージェント「Muse」、Chrome拡張機能で利用可能に
+### 選択肢に確率を付けて答える判定AI「AutoTrust Decider 27B」が急上昇
 
-Metaは正式発表前にChromeウェブストアで公開した。閲覧中のサイトの横で会話し、作業の依頼や承認、連携サービスの利用ができる。
+Hugging Faceで注目を集める270億パラメータの判定用モデル。質問と選択肢を渡すと各選択肢の確率を返す。いいね1561、ダウンロード15万件超。
 
-出典: TestingCatalog
-- https://www.testingcatalog.com/meta-brings-muse-ai-agent-to-chrome-with-new-extension/
-
-### テンセント、文章から360度パノラマ画像を作るAI「HY-World 2.1」
-
-Hunyuan Worldシリーズのモデルで、1つの文章指示から高解像度の全天球パノラマ画像を1枚生成する。OpenRouterで利用できる。
-
-出典: tencent
-- https://openrouter.ai/tencent/hy-world-2.1-panorama
-
-### inclusionAI、100万トークン対応の推論AI「Ling 3.2 Flash」を提供
-
-文章と画像を入力でき、1回に最大200枚の画像を扱える。考える過程を伴うハイブリッド型の推論モデルで、OpenRouterで利用できる。
-
-出典: inclusionai
-- https://openrouter.ai/inclusionai/ling-3.2-flash
-
-### AI開発ツールClaude Code新版、圧縮データ処理のセキュリティ問題を修正
-
-v2.1.325で、zstd形式で圧縮された応答を復元する処理にあったセキュリティ上の問題を修正した。組織の方針で要求が止められた際の対処方法の表示も追加。
-
-出典: Claude Code リリース
-- https://github.com/anthropics/claude-code/releases/tag/v2.1.325
-
-### 作曲AIのSuno、音楽制作ソフト内で使える「Suno Bridge」ベータ版
-
-Sunoの機能を音楽制作ソフト（DAW）から使える独立アプリ。まずMac版のAbleton Live 12に対応した。
-
-出典: @suno
-- https://x.com/suno/status/2121244247147880770
-
-### 手元でAIを動かすソフトllama.cpp、初の正式版v1.0を公開
-
-PCなどでAIモデルを動かす定番ソフトが1.0に到達。今後もあらゆる環境・モデルの種類に対応しつつ、組み込み先のアプリ向けに安定・軽量を保つ方針。
-
-出典: Hugging Face、r/LocalLLaMA
-- https://huggingface.co/blog/ggml-org/llama-cpp-v1
-- https://www.reddit.com/r/LocalLLaMA/comments/1xv8t2e/llamacpp_v10_is_here/
-
-### Perplexity、仕事を任せるAI「Teammates」をMacアプリで提供
-
-最上位のMaxプラン向け。作業を引き受けて実行するAIエージェントで、複数のエージェントが大きな仕事を分担できる。
-
-出典: TestingCatalog
-- https://www.testingcatalog.com/perplexity-brings-teammates-to-mac-for-max-subscribers/
-
-### higurashi-ai、聞きながら話せる音声対話AI「Haru-4B」を研究用に公開
-
-higurashiが音声対話AI「Haru 4B」をApache 2.0で公開。多言語で聞きながら話せる方式を採り、133ミリ秒ごとに音声と文字を処理する。
-
-出典: Hugging Face / higurashi-ai
-- https://huggingface.co/higurashi-ai/Haru-4B
-
-### Google DeepMind、天気予報AIの土台となったデータセット2種を公開
-
-WeatherNext 3の基礎データ「PARDIG」「SatWeave」を研究者・開発者向けに公開し、気候関連アプリの開発を後押しする。
-
-出典: @GoogleDeepMind
-- https://x.com/GoogleDeepMind/status/2121229774865527097
+出典: Hugging Face / autotrust
+- https://huggingface.co/autotrust/AutoTrust-Decider-Pro-Vision-27B-v1.1
 
 ## 株
 
-### 米国株、S&P500とナスダック続落 エヌビディアは6週連続安
+### 全米で航空機の離陸停止、1万便超が飛べず 通信システムの更新が原因
 
-13日の米国市場はナスダックが0.91%安、S&P500が0.4%安、ダウは50ドル高。CEOが辞任したエヌビディアが売られ、2012年以来最長の6週連続安で時価総額は約1.7兆ドル減った。週間では3指数とも上昇した。
+米国全土の空港で約4時間にわたり航空機の離陸が止まり、1万便超が飛べなかった。米運輸長官は、L3Harrisが銅線を光ファイバーに切り替えた際のルーターが通信システムに過負荷をかけたと説明し、攻撃の証拠はないとした。停止解除後も数千便の欠航・遅延が続いた。
 
-朝方は10月の米卸売物価（PPI）が予想をやや下回り株が上昇したが、エヌビディアへの売りが重しになった。エヌビディア株は10月初めから約30%下げ、時価総額でアップルを下回った。フアン氏は2件の不倫問題を経て12日に辞任し、CFOのクレス氏が暫定CEOに就いた。CNBCによると、エヌビディアがAIインフラの資金の出し手となってきた役割にも投資家の目が向いているが、信用市場に広い動揺は出ていない。ナスダックは8月以来の大きな週間上昇となった。解説: 時価総額は株価×発行株数で、会社全体の値段にあたる。指数の中で比重の大きい銘柄が大きく動くと、指数全体が左右される。
+米国全土の空港で通信障害により航空機の離陸が約4時間にわたり一斉に止められ、1万便超が飛べなくなった。米国の空港での出発停止としては2001年の同時多発テロ以来最長となった。ダフィー運輸長官は、FAAの委託業者L3Harrisが遠隔地の施設で銅線を光ファイバーに切り替えた際のルーターが、通信システムに過負荷をかけたと説明した。FAAのベッドフォード長官は、悪意ある攻撃やAIが関わった証拠は「ゼロ」だと述べた。運輸長官は技術を提供した業者の「能力不足」を調べている。停止は解除されたが、その後も数千便の欠航・遅延が続いた。解説: 離陸停止（グラウンドストップ）は、安全のため管制当局が出発便を一斉に止める措置。航空や通信の基盤システムは一つの不具合で全国に影響が広がり、関連企業の業績・株価にも響きうる。
 
-出典: CNBC、Reuters、@ReutersJapan、@BloombergJapan
-- https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html
-- https://www.cnbc.com/2026/11/13/nvidia-stock-jensen-affair-ai.html
-- https://www.cnbc.com/2026/11/13/nvidia-jensen-huang-resignation-ai-financing.html
-- https://news.google.com/rss/articles/CBMinwFBVV95cUxPa0xIRkJ1T2xEOU9abUNDYi1vTlpmRWJzd0MyQkFqa2NSb1BkMEdUNDROMmVmaXo3bDVRdThuRDFRaWZySXAyRjN5d1NDNjhCclFJUDVxdG9CQ1dyWWpDbUEwVHVRaHpNWUg5SjdreUtMeHNHXy1feGNBVkFLN3Z4cGNTcGtyYXg2bXFHdlpZQWtneFJDSWVreFROZ09oamc?oc=5
-- https://x.com/ReutersJapan/status/2121353608767680935
-- https://x.com/BloombergJapan/status/2121362522963919120
+出典: CNBC、@BloombergJapan、@nikkei、Bloomberg
+- https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html
+- https://x.com/BloombergJapan/status/2121672052780273845
+- https://x.com/nikkei/status/2121380279176544342
+- https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video
 
-### 米PPI（卸売物価）10月は前月比0.3%上昇、予想0.4%を下回る
+### イタリア当局、Metaに8億ユーロの制裁金 Android利用者の写真に無断接続
 
-米PPI前月比 +0.3%（予想+0.4%・前回+1.4%）、前年比6.5%。評価: 予想下振れ（物価鈍化）→ 一般に 米金利↓ ドル↓。発表直後は株が上昇
-
-出典: CNBC、@nicosokufx
-- https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html
-- https://x.com/nicosokufx/status/2121235225497964713
-
-### NY連銀総裁、追加利上げを示唆 物価目標へ「まだやるべきことある」
-
-米ニューヨーク連銀の総裁が、物価目標の達成にはまだ取り組むべきことがあるとして、追加の利上げを示唆した。
-
-出典: @ReutersJapan
-- https://x.com/ReutersJapan/status/2121038047202439462
-
-### 東芝、7〜9月期に1.9兆円の最終赤字 保有するキオクシア株の下落で
-
-保有するキオクシアHD株の値下がりで巨額の最終赤字となった。一方、AI関連の需要で本業は堅調だった。
-
-出典: @BloombergJapan
-- https://x.com/BloombergJapan/status/2121219112105865304
-
-### FRB調査、金融システムの最大のリスクに「AI」 株の割高感などを懸念
-
-FRBが年2回公表する調査で、回答者が挙げた最大のリスクはAIで、他を大きく上回った。高い株価が業績次第で崩れる恐れ、債務、安全面の3点が懸念された。
+Facebookアプリが投稿候補を示すため、同意なく端末内の写真・動画にアクセスしたと認定。Metaは60日以内にこの機能を初期設定で無効にし、別途同意を得る必要がある。Metaは不服を申し立てる方針。
 
 出典: CNBC
-- https://www.cnbc.com/2026/11/13/ai-risks-financial-system-federal-reserve.html
-
-### 日経平均、323円高の6万1142円 一時1083円高も半導体株に売り
-
-13日の東京市場は円安や韓国株高を受けてAI・半導体株に買い戻しが入ったが、午後は利益確定売りで上げ幅を縮めた。11月SQ推定値6万1414円を下回って終えた。
-
-出典: 日本経済新聞、@nicosokufx
-- https://news.google.com/rss/articles/CBMibEFVX3lxTE96SmJmT05nMjNLNEFPRFpwWXd2N3ZXcndMbngwRjlvNHJ3VTNCaUhLejNqOURMdVEtRjk3dzMxb0hlaDVXRy11eXJoR1dDRFFVOEEyajl2T1c5X1dWUFFGN1VKNk05cEk1dTRYUg?oc=5
-- https://x.com/nicosokufx/status/2121140628910444671
-
-### 金価格、1オンス3800ドル台に下落 米利上げ継続観測で1年ぶり安値
-
-米国の利上げが続くとの見方が広がり、金が売られて約1年ぶりの安値をつけた。
-
-出典: @nikkei
-- https://x.com/nikkei/status/2121044999852736956
-
-### アシックス株が午後急落 1〜9月は38%営業増益も市場予想に届かず
-
-13日に決算を発表。営業利益は38%増えたが市場の予想を下回り、株価が大きく下げた。
-
-出典: 日本経済新聞
-- https://news.google.com/rss/articles/CBMibEFVX3lxTE54U1lhVFdySlFXMUM3cWFZTHRBdWlNOExjM2xRQzI5aHB0X1pMNGZUWXF0ME43MWcweGh5ZUxhV1EzM3ZDSXJIYm5OekFTZmVyTGllRG9Ed3R3c2w1Nkc2Mkp5NXRWc1hOX3hWbw?oc=5
+- https://www.cnbc.com/2026/11/14/italy-fines-meta-887-million-over-android-users-data-access.html
 
 ## 仮想通貨
 
-### ビットコイン、7万ドル割れで6万8000ドルに下落 約3カ月ぶり安値
+### ビットコイン6万5000ドルに下落、3カ月ぶり安値 ETFから2週で23億ドル流出
 
-ビットコインは13日、7万ドルを割り込んで6万8000ドルまで下げ、約3カ月ぶりの安値をつけた。米金利の上昇、来週のAnthropic上場への資金移動、エヌビディアの混乱で投資家がリスクを避けた。年初来では約21%安。
+ビットコインは14日に約6万5000ドルまで下げ、3カ月ぶりの安値となった。仮想通貨市場は1日で約6%下落し、上昇に賭けた取引の強制決済（清算）が約6億ドルに。米国のビットコインETFからは2週連続で10億ドル超が流出した。
 
-CoinDeskによると、アナリストはエヌビディアとビットコインの直接の関係はないとし、Anthropic上場に投資資金が向かっていることや市場全体のリスク回避を理由に挙げた。米国の利上げ観測の強まりも重しで、ビットコインは6週連続の週間下落に向かっている。仮想通貨ETFからは5日間で14.8億ドルが流出し、うちビットコインのファンドは10.6億ドル減った。解説: ETF（上場投資信託）は株と同じように売買できる投資商品で、資金の流出は投資家が売っていることを示す。金利が上がると、利息を生まない仮想通貨は相対的に魅力が下がりやすい。
+ビットコインは土曜日も下落が続き、約6万5000ドルと3カ月ぶりの安値をつけた。仮想通貨市場全体は1日で約6%下がり、ビットコインとイーサリアムの下落で約6億ドルの買い持ち（ロング）が清算され、強気派の損失は約10億ドルに上った。市場心理を示す恐怖・強欲指数は17まで低下した。米国のビットコイン現物ETFは先週10億7000万ドルの純流出で、前週の12億8000万ドルに続き2週連続で10億ドルを超えた。流出は7営業日連続で計19億1000万ドルと、6月下旬の10日連続以来の長さ。金曜日だけで1億8540万ドルが流出し、ブラックロックのIBITは11営業日連続の流出となった。米国の仮想通貨現物ETF全体では週約15億5000万ドルが流出し、資金が入ったのはアバランチのETFだけだった。解説: 清算は、借りたお金で大きく賭けた取引が損失で強制的に決済されること。清算が続くと売りが売りを呼んで下げが加速しやすい。ETFからの資金流出は、投資家が仮想通貨から資金を引き揚げている目安になる。
 
-出典: CoinDesk、Bloomberg.com、CNBC、BigGo ファイナンス、Fast Company
-- https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off
-- https://news.google.com/rss/articles/CBMirwFBVV95cUxPbDBSRFdONDlCQWdnQTRaTDVQNUVyLVBaak5HWUMyazNza1NndXVxaDYxdHAwdlVhWXpZSXRjSmJmd2p3MVRJSUhCeWljTV9MSVhkb29tejk1Q2QtQzFsZXZ0QzhZZkFjOXdFTGY5SWpGUmRmWlNreG1NbUJOd3l1X3RSRUF1VFRITG5ybVBiR3FYZXFMSXdzM1NHUkYwQ3FrTkFWTy1EbzlsckxsalI4?oc=5
-- https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms
-- https://news.google.com/rss/articles/CBMie0FVX3lxTE56dE9lYWhpbEg2SGY1NTd0UWlQZFdtMDUyNDlvOWxKRUZaNm4zTktLNXdyVUJJMVlUMWE1a2ttSkViZXFUQmhNVjZGRFFya1B0Ykd4VGE5bGF1QXRycHlDc1JoUW14Q2Z2SG5QSXloX1p0SzU5QzJld2tJQQ?oc=5
-- https://news.google.com/rss/articles/CBMidEFVX3lxTE1ha2U1TlhvSDlNTXJMeUNyNmo5SjQ3Q1NqMld2U2JtNDRWRE1JVEhSQm5iZ1lxQVVvUzZvUkxJbjNNdmx6UHBMem94dXRHbW8ycHBuRGhRaFlsYTRIYXZET01PSUpDT2JCQ0ZfalgzcjhDcXRG?oc=5
-- https://news.google.com/rss/articles/CBMimAFBVV95cUxNYWJYNlFZNUVIUzdMNFpmQ216eXZmbnQ2Qlcydnd2Vzd0NTgtTFBlRHVaRFd3emtUMW5peVZHZEtyYWJDQTYwQlctZ0x3c1FRUTZ2WjhKZlJ3WExVUV9nemE1bkZhbXAxN1o2aHU2Z2swZnFOUE5YWkNQTUx4Sk1JMi1YV1hFWmtrb3VxZ21sdXdRQlNfZDM2VQ?oc=5
+出典: CoinDesk、BeInCrypto、Benzinga、The Block、Cointelegraph
+- https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst
+- https://news.google.com/rss/articles/CBMigAFBVV95cUxOQjdRa0ZSRzNCUVF5ckhYa24zM1c5dGEwTU1oUXgxZ2Z5N002cm9MOFN3RFlOMEJNTC1PMU5VUFlyZHpmMWVzaDJWSkU5bEdDaUJ5UFhvREFObU45UHFtVWpyOHM5SlR3a0g1YlFIbVNqRkxSZC1welNPS25CWng1Zw?oc=5
+- https://news.google.com/rss/articles/CBMifEFVX3lxTE1RMndCTFZ3WGlseW5obGZ6YUIzQlVWQVR3QkI4Snd2RFRBMWd2RjdXazdHNXpDTUdXc203RXVyTlhfNDQ3TFNfU0hmVEFobm1icHlCSTJiUGNBOTliRU1wMUZaRXNzdDJ4dGtLbmlUY3hTSDFwMjFxcnhNU0U?oc=5
+- https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTG56RENCMERuRWRkLVR3a2RwdV9ubTV5X3N4RThjWTQtX3hNZ0stQ2k1WGRaMmF6TU9WTk1qQWpzdlFCTEFWUzZyU3VzOV9leHlNWklFRVNvNDFSSVdYWUFQMTlKRkxubFpvVWpBcHAxNHludnRSRlhIVHk0M2xHSnBsWU5vcTF1ZzRPQXdONnBOTnhiZmc1ajdZbUxUZUp1cFc1ZWVySWhQZlRuU0RmNE5ZUUZyNWd1WlA3bUhTX2pHSWxDd256XzlzbEJOaGhMRXMyUnpSc2JDLWdHWkxlUkxZT1BxQU5ualE?oc=5
+- https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337
+- https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
-### メタプラネット、通期営業益予想を73.7%下方修正 BTC取得が想定下回る
+### 米ルイジアナ州裁判所、Kalshiなど予測市場に州内停止命令 CFTCが州を提訴
 
-ビットコインを大量保有する東証スタンダード上場企業。新株発行による資金調達を見送り、BTC取得と関連事業が想定を下回ったため、営業利益予想を114億円から30億円に引き下げた。
+州の判事がKalshi・Polymarket・コインベース・ロビンフッドなど予測市場31件に、州内での出来事を予想する取引の停止を命じた。米商品先物取引委員会（CFTC）は翌日、命令の差し止めを求め州を提訴した。
 
-出典: CoinPost
-- https://coinpost.jp/?p=747904
-
-### コインベースの信託会社、米当局から最終承認 議会は審査記録を要求
-
-米規制当局がコインベースの信託会社に最終承認を出し、仮想通貨企業が米国の規制下で事業を広げる道が開いた。議会側は承認の根拠や利益相反に関する記録の提出を求めている。
-
-出典: Cointelegraph
-- https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+出典: The Block、@CFTC
+- https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342
+- https://x.com/CFTC/status/2121405012626600004
 
 ## テクノロジー
 
-### Microsoft 365の世界的障害、原因はネットワーク増強作業 攻撃ではないと説明
+### SpaceX、大型ロケットStarshipの機体を発射塔の腕で初めて空中キャッチ
 
-Microsoft 365の大規模障害について、マイクロソフトはネットワーク容量の増強作業に伴う技術的な問題が原因で、サイバー攻撃やAIによるものではないと説明した。Outlook・Teams・Copilotに加え、ChatGPTとClaudeのMicrosoft 365連携もほとんど動かなかった。広い範囲で復旧が進んでいる。
+SpaceXの大型ロケット「Starship」15回目の試験飛行で、約1日軌道を回った上段の宇宙船を発射塔のアームで初めて回収した。飛行中には次世代通信衛星Starlink V3を26基放出。一方、前日の1段目（ブースター）は回収に失敗し、爆発した。
 
-障害は日本時間13日未明にOutlookやTeamsで始まり、Copilotなど同社のクラウドサービスの多くに広がった。ChatGPTとClaudeのMicrosoft 365連携機能もほとんど動かなかった。いったん復旧したサーバーが再び止まる場面もあり、障害は2日目に入った。国内では佐川急便の一部サービスや政府の情報システムにも影響が出た。マイクロソフトは原因をネットワーク容量の増強作業に伴う技術的な問題とし、サイバー攻撃やAI・エージェントとは無関係と説明して謝罪した。Ars Technicaはサーバーの稼働確認の失敗が原因と報じた。NHKによると広範囲で復旧が進んでいるが、障害中のメールが後からまとめて届いたり、最終的に届かなかったりするおそれがある。解説: Microsoft 365はメールやチャット、文書作成ソフトなどをネット経由で提供するサービスで、障害中に送ったメールは相手に届いているか確認すると安全。
+Starshipの15回目の試験飛行（Flight 15）は米国時間13日に打ち上げられ、軌道に到達した。飛行中にStarlinkの次世代衛星「V3」26基を約42分かけて放出し、全機が軌道に入ったとSpaceXが発表した。打ち上げ時の1段目（ブースター）は回収に失敗し、爆発した。上段の宇宙船（Ship 42）はほぼ1日軌道にとどまった後に帰還し、テキサスの発射塔に付いた2本のアーム「Mechazilla（メカジラ）」で受け止めることに成功した。英BBCなどによると、上段を塔でつかむ試みは今回が2回目で、成功は初めて。SpaceXは今回の打ち上げを、Starlinkをインターネット通信の51%を担う存在にする目標の一環と位置づけている。解説: これまでロケットの上段は使い捨てか海に落とすのが一般的だった。塔で回収して整備後に再び飛ばせれば、打ち上げ費用の大幅な引き下げにつながるとされる。
 
-出典: Techmeme、@arstechnica、@verge、@TechCrunch、@gigazine、日経クロステック
-- https://www.techmeme.com/261113/p28#a261113p28
-- https://x.com/arstechnica/status/2121264934038466703
-- https://x.com/verge/status/2121224024382701972
-- https://x.com/TechCrunch/status/2121231385310503234
-- https://x.com/gigazine/status/2121088237389205644
-- https://xtech.nikkei.com/atcl/nxt/news/24/03470/
-- https://xtech.nikkei.com/atcl/nxt/column/18/00001/12176/
+出典: @SpaceX、CNBC、NBC News、NPR、The Verge、Reuters、@arstechnica、@verge、Space Policy Online
+- https://x.com/SpaceX/status/2121715216597827756
+- https://news.google.com/rss/articles/CBMipgFBVV95cUxNdGFvOUM3TDc1a3hvVXppS0tjbklLX3MyS094bGRNVFh2dGxVbGRLRFRJZmxpS0VHa2hQRHNBMHJqZ2Fxd2wzMzBOazZPQzJ2dEJtRThqYW9yV0VzTUVrVWFDbmtVYUVjTElyUnB4U3pOaG5qaTdGOUxSWTJscUpOMzBmeWUybXFWc25WdU9tT2JUOF9qZGpid0I0S0hrR1pyWVlZcUpB0gGrAUFVX3lxTE16S1ZpTnRzaHp5LS04QlVFOXNLNmJhNHk3SXZsendHTHJacURRcjFFWVUxT3d2UDhpa0tVeTRXMXdUcGNIV0VacUZDbHdYR0U5MmVtSzlKZnVyNFpRQ3I5Q2RuOFBzLWNJQ1VXVHVYNlNfQVZYVTdJVVdqaFotNEF1MG1rN3ZPaW1DVEZ2dWlIQ0QtOFBrYllrU3NTekpDNVh2Nm5UUE9xTXd6QQ?oc=5
+- https://news.google.com/rss/articles/CBMiugFBVV95cUxNUy1hcVFMUVFOc0lrZWNVT3lvV1gzbVl1MHE0am1WaFBYRjlJWWtJNnEwZERmdGxLZHdLUFhhaUJoZ3BPeTZRZ0ZtNzBJcmFqTTVjcnBtb2pUblpLTm5nWXBnazdHZTBDNUM1cmJYTjlwNnk5TkllVEd4bnJQSGxJanU3OHBhMmpRRnN5b3F4Q1BQRV9ud001RHc3cEo0d1pJbWNZSnhMc0hZSV9RV3JmUW5KT2ZxY3JoRGc?oc=5
+- https://news.google.com/rss/articles/CBMingFBVV95cUxPTkcyZTZfYTNaUW1HemJBRUtfYldKd1cteXZMcHdpdGtySk1nRUh6SFhHMlRlTUh4eTRaTDFaYkhibDJnZTRmYlNWLUUtUmo3NlNWcTh0dEpEMXhGdXNxaHE3aU5kWEZMSjFrQ0FYYnJPMkZRR2ljak9vNGxXVmRQMHYxay1YdHREcGJxa0dmdWJaM2hQYkVjRDBZWXdsUQ?oc=5
+- https://news.google.com/rss/articles/CBMifEFVX3lxTE9pYlVsTDU0cUsxTkJla2VGX2pyZ042eWhaVzg4alNXYlRKZ1dRSUZ2UkxCWVFURUQtcC1ybWpLWU84MFFvM0tuOEFWQk9CQlpoYkgtNEtzVmJORHRWTGxOMzVDcEItX3R5VWRQb2txRDZDQWZLblQ2cE5Oc0M?oc=5
+- https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ25xZHF6NVM2ekhIVmRFejZfdVZ4MVRwMTQ1QjBFeFFQQkN2LTh6eHRVeDF2QzhxMmlzdFg2M1drVm9Sc0lCeWJBZDhwUjV1Vm91TzF4ZzgxczY4RlppNGc0WVJxU0t4dFV3OHIyNWJoREpaWGNweGVoY25XNzBzQWUxUk13RDJkSDZzZXVtVVRKU09admlYMmt0RGFyV3ljbHl3elp5TV9NMmo0ZEVMUENvQTFSTkh0ZHF6U2c2LVpWdE05YlJ4Xw?oc=5
+- https://x.com/arstechnica/status/2121405908630810916
+- https://x.com/SpaceX/status/2121372407529459831
+- https://x.com/SpaceX/status/2121374779680964991
+- https://x.com/SpaceX/status/2121394268652839309
+- https://x.com/SpaceX/status/2121384424558453096
+- https://x.com/verge/status/2121721467520086518
+- https://news.google.com/rss/articles/CBMibkFVX3lxTE0zQU01U3l3QzNGQlZPOVJTbFh1LTlHSTY3MVNuSHpTUG5wRnU2UjI2THhyOUxZOHN1TW1ZVl9YZldndmJsU2VudURLUnBsRDZoRDh2TWtuQVFmdXlqb3Y2andfSTNqdGFSb1lzT1F3?oc=5
 
-### 通販サイトQoo10に不正アクセス、氏名・住所や身体的特徴が閲覧の可能性
+### AIでアプリを作るLovable製の公開アプリ、旅券情報や私信20万件超が丸見え
 
-会員3000万人超のQoo10を運営するeBay Japanが、6日の不正アクセスで個人情報が閲覧されたと発表。住所の位置座標や任意入力の身体的特徴も含む可能性。決済情報やパスワードの流出は確認されていない。
+文章からWebアプリを作れるAIサービスLovableの約15万9000件のプロジェクトを調べた研究者が、ログインなしで個人情報や機密情報を閲覧できるアプリが多数あると報告した。パスポート情報や20万件超の私的メッセージも含まれていた。
 
-出典: ITmedia NEWS
-- https://www.itmedia.co.jp/news/article/2611/13/2000003186/
+出典: Hacker News
+- https://www.crissyfield.de/research/lovable-en/
 
-### ウクライナの軍用Starlink『Starshield』に再び速度制限 迎撃に支障
+### テスラ、無人運転車Cybercabの個人向け予約開始 2万9990ドル＋月299ドル
 
-ゼレンスキー大統領は、SpaceXの軍事向け衛星通信Starshieldで占領地上空を飛ぶ端末に時速161kmの速度制限が再び課され、ロシアのジェット型ドローンの迎撃が難しくなったと報告した。
+テスラが自動運転車「Cybercab」の個人向け予約を一部の客に開始した。価格2万9990ドルに加え運用に月299ドルが必要で、受け取りはテキサス州の数都市に限られ、走れるのは指定区域内だけ。納車は2026年12月予定。
 
-出典: GIGAZINE、@JimmySecUK、@TimothyDSnyder
-- https://gigazine.net/news/20261113-ukraine-cant-stop-russian-strikes-starshield-limited-again/
-- https://x.com/JimmySecUK/status/2121226041305809302
-- https://x.com/TimothyDSnyder/status/2121261813656326407
+出典: TechCrunch、@verge
+- https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/
+- https://x.com/verge/status/2121609478961582323
 
-### ラピダス、2ナノ半導体の量産開始は『27年末〜28年初頭』と社長が明示
+### Android 17、ロック解除のパスコード入力の上限を1800回から20回に削減
 
-国策半導体会社ラピダスの小池社長が、2ナノ世代の量産開始時期を2027年末〜28年初頭と明らかにした。目標の27年度に間に合わない見通しとされていた時期が具体的になった。
+Android 17で、端末のロック解除パスコードを入力できる回数の上限が1800回から20回へと大幅に減らされたとライフハッカー・ジャパンが報じた。
+
+出典: ライフハッカー・ジャパン
+- https://news.google.com/rss/articles/CBMilgFBVV95cUxNV1Fsc0hGRUl0dlNFZTcwWTZadkwwT21lZlJNX2x0eE5yV2JmSDUwSTZfWGg4dVc5d1YzME85NHJhY1R4Z2xabmt2YWIwVklmWldjUWhxVFRUenN3Wnd0NnpRbHlyMUR0aHdiaTZDYlh4Y2U3N3BVSjZxd0QtRmQ2c1o0NnZGUlZHVGtxQkdpN2xyUVhsWUE?oc=5
+
+### アップル、iPhone 11など11機種の下取り価格を引き上げ
+
+アップルがiPhone 11など11機種の下取り価格を引き上げた。上昇率が最も大きかったのは7年前のモデルだった。
 
 出典: BigGo ファイナンス
-- https://news.google.com/rss/articles/CBMidEFVX3lxTFBiYU5Rci1Jak40dzNNTjE3aktaNWhMcTVJdU00WFJQWXZ3QVQ5MURQeTlxSXRRZWhYTlNQc2pHbHlBWDBLVms1SnJzVnpLd0poc205WjFXYXFNaXNRSFRoOUtqQm95YVZ0azVfZUJtbzktelhv?oc=5
-
-### ANAとJALの予約システムで障害、国内線の予約ができず 昼過ぎに復旧
-
-13日午前、ANAとJALで国内線航空券の予約・購入ができない障害が起きた。ANAはタイムセール初日だった。両社とも昼前後までに復旧し、ANAは原因を明らかにしていない。
-
-出典: ITmedia NEWS
-- https://www.itmedia.co.jp/news/article/2611/13/2000003178/
+- https://news.google.com/rss/articles/CBMidEFVX3lxTE9sci1tQnhvMXV2bW5ybVpHNFU1RWpjM3h6Z09hb25UMzBlUGJWUnc4WWlPWXdRNDZwZUdMLVhsbTFGT2dmQWRHOUJiZ3JHMmF4LXVHMHdSYUE5NHZ0bkFXMGVReFRmbE0xR1Qwelc2ZjQxQU1S?oc=5
 
 ## 話題
 
-### 米FAA、通信障害で全米の空港に地上待機命令 極めて異例の全便離陸停止
+### 米中ロが史上初の3カ国首脳会談へ 19日開催、日本政府は危機感
 
-米連邦航空局（FAA）は13日午後（日本時間14日朝）、複数の航空路管制センターでの通信障害を理由に、全米の空港で航空機の離陸を止める地上待機命令を出した。ロイターは約7000便に影響する可能性を伝えており、収集時点では解除の見通しは示されていない。
+ホワイトハウスは、米国・中国・ロシアによる史上初の3カ国首脳会談を19日に中国・深圳で開くと発表した。核軍縮を協議し、マスク氏も同行する。日本政府は3カ国の接近に危機感を強め、日本と築いた安全保障の秩序を損なわないよう米側に注意を促す構えだ。
 
-FAAは異常な状況と安全上の理由を挙げ、全米すべての空港を対象に地上待機命令を出した。広報担当者は複数の航空路管制センターに影響する通信の問題と説明し、FAAのサイトは原因を機器の障害と表示した。ダフィー運輸長官も通信の問題と説明し、アラスカ航空の社内連絡では通信とレーダーに関係しているという。ロイターは約7000便に影響する可能性を伝えた。発令前後にはFAAのウェブサイトも一時つながりにくくなった。収集時点では命令解除の見通しは示されていない。解説: 航空路管制センターは、上空の旅客機の位置を把握し進路を指示する施設。管制との通信が途絶えると安全な間隔を保てないため新たな離陸を止める措置で、遅れや欠航は日本との往来にも波及しうる。
+米国、中国、ロシアによる史上初の3カ国首脳会談は、中国・深圳で11月18日から開かれるAPEC首脳会議に合わせて19日に開催される。ホワイトハウスが発表し、米報道官は「米国の利益を前進させる」と説明した。トランプ大統領は習近平主席、プーチン大統領と核軍縮を協議し、マスク氏も同行する。NVIDIAを巡るスパイ疑惑は提起しない見通しだ。共同通信によると、日本政府はトランプ政権に懸念を伝えていたにもかかわらず開催が決まったことで、3カ国の接近に危機感を強めている。政府筋は「わが国と築き上げてきた安全保障秩序を毀損しないよう米側に注意を促していく」としている。解説: 核軍縮は、各国が保有する核兵器を減らすための取り組み。日本の安全保障は日米同盟を土台としており、米中ロの接近は日本の外交・安全保障上の判断にも関わる。
 
-出典: 日本経済新聞、Bloomberg.com、@nhk_news、TBS NEWS DIG、Yahoo!ニュース、CNN、NHKニュース
-- https://www.nikkei.com/article/DGXZQOGN140400U6A111C2000000/
-- https://news.google.com/rss/articles/CBMijgFBVV95cUxNR0NNXzlFZkJseHE0RUxFZ2ZCUjlBM3V3WWhweHNuRlpzMjUwTTZPckhHR19uanpyLXBtS0c0aFVUUnBOVDBySGRqNnRsNjJBNTByVXItam1ueTBucnp0MEQ1cEg0ZG53cTZQbkRyRmVuYlZZZjZnOGY4bDBTalV2cVdNcHFDbThaM1Z5bFl3?oc=5
-- https://x.com/nhk_news/status/2121358917951455358
-- https://x.com/nhk_news/status/2121359714181366064
-- https://news.google.com/rss/articles/CBMiV0FVX3lxTE5EaHV3LVlaVU1qWFpUbFJCV1JrWFRnQUh0bGoyaEUtWmFESnFWM3oxcG5tSWlaUXZRTmdOX2lCVDNlaVpNNVpEZ3VEcV9MeDRGQjBmZjhtbw?oc=5
-- https://news.yahoo.co.jp/pickup/6602483?source=rss
-- https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5
-- https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KVGdSYm9aNFh5OXg3TnZsUGpNaGdFekJLNWVKRTF6cVJ0aUsxN2MwS195YzhhdHZzXzdwd3U4dWdCRFI5dWVOWjdXblcwOWdyUlI0a3dzV3FiOWg1OXRj?oc=5
+出典: Yahoo!ニュース、@kyodo_official
+- https://news.yahoo.co.jp/pickup/6602584?source=rss
+- https://x.com/kyodo_official/status/2121528707278082557
 
-### 紅白歌合戦の出場41組が決定 初出場7組、あいみょんや米津玄師は名前なし
+### ドコモ、システム不具合で緊急地震速報を配信できず
 
-大みそかの第77回NHK紅白歌合戦の出場歌手が発表された。紅組20組・白組21組で、初出場は=LOVEやEBiDANなど7組。昨年出場のあいみょん、米津玄師、アイナ・ジ・エンドは含まれなかった。
+NTTドコモでシステムの不具合により緊急地震速報が配信できない状態が起きた。不具合が解消するまで、速報が届かない場合があるという。
 
-NHKは13日、12月31日に放送する第77回紅白歌合戦の出場歌手を発表した。初出場は=LOVE、CUTIE STREET、Ayumu Imazu、Aぇ! group、EBiDAN、マカロニえんぴつ、モナキの7組。紅組には石川さゆり（49回目）やYOASOBI、白組にはMrs. GREEN APPLEや福山雅治、TM NETWORKなどが名を連ねた。昨年出場したアイナ・ジ・エンド、あいみょん、米津玄師の名前はなく、追加発表があるかが話題になっている。X上では出場が決まった歌手やファンの投稿が数十万〜数百万回閲覧された。解説: 紅白は出場歌手を11月に一括発表し、その後に特別企画などで追加の出演者を発表することがある。
+出典: ASCII.jp
+- https://news.google.com/rss/articles/CBMicEFVX3lxTE5xTVdTZGlzQ3QzTHdkb2oydUptM3lWS2gtWE1LUFNPbXVKeVg0bXVpUjVVT2NKbHU2eHhMcVd0cDlZOUJIV01HQ2t3OWNWSVFBWlJjb2VlSXp4NU91LWFtcjR0Zkptblp0dC15c0J0enA?oc=5
 
-出典: nhk.or.jp、Yahoo!ニュース、@EBiDAN_official、@ayumu__imazu、@tmnetwork_2014、@HANA__BRAVE、@345__chan
-- https://www.nhk.or.jp/kouhaku/artist77/index.html
-- https://news.yahoo.co.jp/pickup/6602479?source=rss
-- https://x.com/EBiDAN_official/status/2121098227688632549
-- https://x.com/ayumu__imazu/status/2121113577256014021
-- https://x.com/tmnetwork_2014/status/2121092210473259487
-- https://x.com/HANA__BRAVE/status/2121098143525925266
-- https://x.com/345__chan/status/2121110580132229460
+### 京成電鉄の予約システムに不正アクセス、最大337万件が漏えいの可能性
 
-### イラン、バーレーンの米軍通信設備を攻撃したと発表
-
-イランが中東バーレーンにある米軍の通信設備を攻撃したと発表した。G7外相会合で米国務長官がイランへの大規模戦闘は不要と述べた直後で、中東情勢の緊張が高まっている。
+京成電鉄の予約システムが不正アクセスを受け、最大で337万件の情報が漏えいしたおそれがあるとNHKが報じた。
 
 出典: @nhk_news
-- https://x.com/nhk_news/status/2121253765630329161
+- https://x.com/nhk_news/status/2121451822519128130
 
-### ヤマダデンキに不正アクセス、最大350万件の情報に影響の可能性
+### ホルムズ海峡で石油タンカーが機雷に触れ炎上、イラン海軍が発表
 
-家電量販大手のヤマダデンキが不正アクセスを受け、最大350万件が影響を受けた可能性があるとNHKが報じた。利用者は不審なメールや連絡に注意が必要。
-
-出典: @nhk_news
-- https://x.com/nhk_news/status/2121252004827980211
-
-### Xで画像を1投稿20枚まで添付可能に 利用者の話題に
-
-X（旧Twitter）で1回の投稿に画像を20枚まで載せられるようになり、まとめ画像の投稿が数百万回閲覧されるなど利用者の間で大きな話題になった。
-
-出典: @_t0da_、@tannen_h、@kissshot51
-- https://x.com/_t0da_/status/2121067392017264644
-- https://x.com/tannen_h/status/2121093668056731965
-- https://x.com/kissshot51/status/2121124644065554696
-
-### 日本政府、防衛産業に発注の大幅削減を警告 財政制約でとロイター
-
-ロイターの独自報道によると、日本政府は財政の制約から、防衛関連企業に対し見込まれていた発注を大きく減らす可能性を伝えた。高市政権が進める防衛力増強が縮小する恐れがある。
+イラン海軍は、原油輸送の要所ホルムズ海峡で石油タンカーが機雷に触れて炎上していると発表した。
 
 出典: @Reuters
-- https://x.com/Reuters/status/2121073090654310699
+- https://x.com/Reuters/status/2121692152266666249
 
-### 特殊詐欺に新手口『筆跡鑑定が必要』 警察署へ手書き書類の郵送を指示
+### サッカー日本代表、親善試合でブラジルに3-2で勝利
 
-警視庁によると、「筆跡鑑定が必要」として警察署宛てに手書きの書類を郵送させる新しい特殊詐欺の手口が確認された。警察を名乗る連絡には注意が必要。
+日本代表（FIFAランキング17位）は14日、シンガポールでの国際親善試合でブラジル（同6位）を3-2で破った。ブラジルのアンチェロッティ監督は判定に猛抗議して退場処分を受けた。
 
-出典: @jijicom
-- https://x.com/jijicom/status/2121366065410424939
+出典: @kyodo_official、Yahoo!ニュース
+- https://x.com/kyodo_official/status/2121582310646804500
+- https://news.yahoo.co.jp/pickup/6602607?source=rss
+- https://news.google.com/rss/articles/CBMif0FVX3lxTE9DQ3hLVG5fc0tQNUtUNXh3VmNzX0JlLVFkRHBndXlPZWpjVjU2VkhBUC1hYVNtMkNzVDgyZzUyVWtjdGJpaG9aSzF4a3BiWm5ocGVSbU9faDZLOEN5dkZhdHd4WWtNd2psbnVKVUpwSmtFV2J6WkRfV25ucVgwWmM?oc=5
 
-### 自衛官の給与引き上げ法が成立 全年代で基本給を増額
+### AIを悪用したサイバー攻撃の拠点か、世界で約1000台のサーバーを確認
 
-全年代の自衛官の基本給を引き上げる改正法が参院本会議で成立。基本給は月額3.4%上がり、一般幹部候補生は月29万9600円に。高卒自衛官の生涯年収は初めて3億円を超える見込み。
-
-出典: Yahoo!ニュース
-- https://news.yahoo.co.jp/pickup/6602480?source=rss
-
-### 古いiPadでも大規模AIを動かせる無料ツール『smolmaxxing』公開
-
-AI実行ソフトllama.cppを改良し、メモリ1GBの端末でも160億パラメータ規模のAIを端末内で動かせるようにするオープンソースのツールが公開された。2013年発売の初代iPad Airで動作を確認。
-
-出典: GIGAZINE
-- https://gigazine.net/news/20261113-smolmaxxing/
-
-### アジアプロ野球CS、侍ジャパンが韓国に9-5 決勝進出に王手
-
-東京ドームでの韓国戦で、宗山の決勝3ランなどで日本が乱打戦を制し開幕2連勝。プロが出場した韓国戦は12連勝となった。
+高性能なAIを悪用したサイバー攻撃の拠点と疑われるサーバーが、10月以降、世界で少なくとも約1000台見つかった。日本の情報セキュリティー機関と海外企業の調査で判明し、AIでサイトの弱点を探して侵入を図った疑いがある。
 
 出典: Yahoo!ニュース
-- https://news.yahoo.co.jp/pickup/6602475?source=rss
+- https://news.yahoo.co.jp/pickup/6602602?source=rss
+
+### 米国、はしかの感染が続き「排除状態」の認定を失う
+
+米国で、はしか（麻疹）の感染拡大が続いたことで、国内で流行が途絶えた状態を示す「はしか排除」の認定を失ったとWSJが報じた。
+
+出典: @Reuters
+- https://x.com/Reuters/status/2121555019447062974
+
+### スマホの縦型ショートドラマ、解約できないなどの相談が1年で211件
+
+1話1〜2分の「縦型ショートドラマ」の定額課金を巡り、解約できないなどのトラブルが急増。共同通信の調べで、9月までの1年間に全国52の消費生活センターへ少なくとも211件の相談があった。
+
+出典: Yahoo!ニュース
+- https://news.yahoo.co.jp/pickup/6602597?source=rss
+
+## 監視アカウント
+
+### Claude Codeの『Projects』を大幅更新、まとめ役AIが進み具合を自分から報告
+
+複数の作業を並行して進めるProjects機能で、全体をまとめるAIが質問に答え、各作業の進み具合を自分から知らせるようになった。作業の共有リンクやリマインダーにも対応。ProとMaxでパブリックベータとして提供中。
+
+Anthropicの開発者向けアカウントClaudeDevsが11月13日に発表した。Projectsは、1つのプロジェクトの中でClaudeが複数の作業（スレッド）を並行して進める機能で、全体をまとめるAIが前より積極的に動き、プロジェクトのチャットで質問に答えたり、進行中の作業の状況を伝えたりするようになった。個別のスレッドは、Claudeにサインインしている相手に閲覧専用のリンクで共有できる（パソコンの操作権限を持っていたスレッドは共有できない）。スレッドにリマインダーを設定すると、その時刻まで一覧から外れ、時間になるとClaudeがチャットで知らせる。/btw（割り込みの用件を別スレッドに分ける）と/fork（今のスレッドから別のやり方を試す新スレッドを作る）もプロジェクト内で使えるようになり、最近開いた成果物を一覧の上部から探しやすくなった。WebとデスクトップアプリのほかモバイルアプリにもProjectsの新しいデザインが入り、Pro・Maxプランでパブリックベータ提供中で、未提供の人は順番待ちに登録できる。解説: スレッドは1つの作業ごとの会話のまとまり、アーティファクトはClaudeが作った文書やコードなどの成果物のこと。複数の作業をAIに任せたまま、人が全体の進み具合を追いやすくなる更新だ。
+
+出典: @ClaudeDevs
+- https://x.com/ClaudeDevs/status/2121375309287301360
+- https://x.com/ClaudeDevs/status/2121375319227842597
+- https://x.com/ClaudeDevs/status/2121375314899296595
+- https://x.com/ClaudeDevs/status/2121375312965751211
+- https://x.com/ClaudeDevs/status/2121375311183163778
+- https://x.com/ClaudeDevs/status/2121375316618936407
+
+### Claude Codeのデスクトップ版、配色や背景を変える独自テーマに対応
+
+デスクトップアプリで『mods』を使い、色の変更や動く背景などの独自テーマを作れるようになった。Claudeに見た目を頼むか見本プラグインから始められる。今はローカルのセッションのみ対応。
+
+出典: @ClaudeDevs
+- https://x.com/ClaudeDevs/status/2121392666244186327
+- https://x.com/ClaudeDevs/status/2121392667666125167
 
 ## 論文
 
-### 画像を理解するAIの「目」、別途事前に鍛えなくても同じ性能とMetaが確認
+### 動画生成AIを1コマずつ画素で描く方式に、操作への反応が約15倍速く
 
-画像と言葉を扱うAIで、画像処理の部品を別に事前学習する必要はなく、画像専用の部品を持つことが重要だと同条件の比較で示した。開発手順の無駄を省ける。
+動画AIは複数コマをまとめて圧縮して作るため反応が遅い。既存モデルを1コマずつ画素で描くよう作り替え、品質を保ちつつ操作への反応を495ミリ秒から34ミリ秒に短縮した。対話型の動画生成に役立つ。
 
-画像と言葉を扱うAIは、別に学習済みの画像処理部品（ビジョンエンコーダ）を付けるのが一般的だが、各社でデータや計算量が違うため、どの要素が効いているのか比べられなかった。MetaとNYUのチームは、すべてのモデルを同じデータ・同じ計算量で一から学習させ、要素を切り分けて比べた。その結果、本体と一緒に一から学習した画像部品は事前学習済みのものと同等で、画像専用の部品がないモデルは本体を大きくしても画像理解で劣った。17億パラメータの本体では、画像専用の部品を本体の前半に組み込む方式が画像の質問応答で平均49.2%となり、部品なしの44.8%を上回った。ただし、外部データで事前学習する利点までは否定できていない。解説: パラメータはAIの規模を表す数字。画像部品を本体と一体で育てる設計で十分なら、開発の手間を減らせ、最初の応答が出るまでの時間も短くできる可能性がある。
-
-出典: alphaXiv
-- https://www.alphaxiv.org/abs/2611.17334
-
-### ロボット学習用に、部屋の3Dスキャンと人の作業映像を大量にそろえて公開
-
-ロボットに作業を教えるデータの不足に対し、1589件の3Dスキャンと131時間の人の作業映像を同じ空間座標でそろえた。仮想環境での訓練にそのまま再利用できる。
-
-大規模AIはロボットを直接動かせるようになったが、物に触れる長い作業ではまだ失敗しやすい。上達には、人の手本の動きと、試行錯誤できる仮想環境の両方が必要だった。研究チームは実寸の3Dスキャン1589件と、頭に付けたカメラでの作業記録4230本（74種類・131時間）を集め、両者を共通の空間に重ねた。スキャンは物理的に動かせるシミュレーション環境に変換し、人の動きはロボットの全身の動きに置き換えられる。8段階の作業1件では、使っていない30通りの開始状態すべてで成功したが、この1例だけで実機ロボットでの幅広い性能は示せていない。解説: 3Dスキャンは現実の部屋を立体データにしたもの。環境と手本を同時に記録するやり方が広まれば、家庭や工場で働くロボットの訓練データを効率よく増やせる可能性がある。
+最先端の動画生成AIは、映像を縦横だけでなく時間方向にもまとめて圧縮した「潜在空間」で作る。学習は楽になる一方、解像度を2倍にすると計算量が4倍になり、操作の指示も数コマ単位でしか効かず、反応が待たされる弱点があった。PixVidは既存の動画AI（Wan2.1-14B）の中核を残し、出力を画素として直接描く部品に取り替えて1コマずつ生成する。約130万本の動画で追加学習し、品質の指標VBenchで84.78点と元モデルの84.05点を上回り、操作への反応は495ミリ秒から34ミリ秒に縮んだ。ただし一定時間に作れる量（処理能力）は元の方式より低い。解説: 「潜在空間」はデータを小さく圧縮して扱うAI内部の表現のこと。操作にすぐ反応する動画生成は、AIで作るゲームやシミュレーターなど対話型の用途に役立ちうる。
 
 出典: alphaXiv
-- https://www.alphaxiv.org/abs/2611.17060
+- https://www.alphaxiv.org/abs/2611.17336
 
-### 同じデータを繰り返し学ばせるAIで、計算を最大48%節約する方法
+### 人の作業動画とロボットの動きを言葉で結びつけ、ロボット学習を強化
 
-良質なデータが尽きて同じデータを何周も学習させる場合、各単語の最終段の情報を次の単語の入力に戻す「潜在フィードバック」で、計算を最大48%、データを最大47%減らせると示した。
+ロボットの学習データは集めるのが高い。別々に撮った人とロボットの動画を、動作の説明文を手がかりに対応づけて一緒に学ばせた。人の実演動画を増やすと成功率が18.75ポイント上がった。
 
-AIの学習用の良質なデータは不足しつつあり、同じデータを何回も学習させると1回ごとの効果が落ちていく。研究チームは、各単語を処理した最上層の状態を次の単語の入力に加える「潜在フィードバック」を、同じ計算量で単に周回数を増やした通常のTransformerと比べた。6000万〜2億7100万パラメータのモデルで試し、同じ精度に達するまでの計算量を最大48%、必要な固有データを最大47%減らせた。結果から作った予測式は、7億7800万パラメータのモデルの誤差を0.3%以内で当てた。一方、モデルの大きさに比べてデータが極端に少ない場合は不利になり、検証も1種類の手順・データセットに限られる。解説: Transformerは今の対話AIの基本構造。データ不足が学習の壁になるなか、同じデータからより多くを引き出せれば開発費の削減につながりうる。
-
-出典: alphaXiv
-- https://www.alphaxiv.org/abs/2611.latent-feedback-transformers-scaling-law
-
-### AIエージェントが、中身を説明できる脳活動の予測モデルをコードで手作り
-
-ニューラルネットは予測が得意でも理由が分からない。AIエージェントに特徴や重みをコードで直接書かせ、人が読める予測モデルを作る手法で、視覚野の活動予測は既存の解釈可能な手法を上回った。
-
-脳科学では深層学習が脳活動をよく予測するが、刺激のどの特徴が効いているのか分からず、説明の道具としては使いにくい。Microsoft Researchなどのチームは、通常の学習（誤差逆伝播）を使わず、AIエージェントが仮説を立てて重みや特徴をコードで書き、評価点を見て直していく「iWSP」を提案した。まず足し算や感情分類をこなすTransformerを小さく正確に手作りできることを確かめた。視覚野の予測では初期視覚野と腹側の領域で既存の解釈可能なモデルを上回ったが、腹側ではAlexNetには届かなかった。言語のfMRIデータでは、物語の位置と撮像の区切りのタイミングが重なるというデータ側の偏りも見つけた。解説: fMRIは脳の血流の変化から活動を測る装置。中身を説明できる予測モデルを自動で作れれば、AIを科学的な発見の道具として使いやすくなる。
+ロボットに作業を教えるデータは集めるのに手間と費用がかかり、人が自分の目線で撮った作業動画を代わりに使う方法が注目されている。従来は動画の見た目を再現する形で「動き」を学ぶため、見た目が似たもの同士でまとまり、人とロボットの動作をうまく対応づけられなかった。SALAは人とロボットの短い動画それぞれに付いた動作の説明文から意味の近さを求め、人の動きの表現を意味の近いロボットの動きに寄せる。人とロボットの対になったデータは要らない。63自由度のロボットで、2678時間の人の動画で事前学習すると未知の作業での動作予測の誤差が2.21%減り、作業ごとの人の実演を増やすと成功率が18.75ポイント上がった。数字は今回の試験条件での結果。解説: 「自由度」はロボットが独立して動かせる関節などの数。大量の人の動画をロボットの訓練に使えれば、家庭や工場で働くロボットを安く賢くできる可能性がある。
 
 出典: alphaXiv
-- https://www.alphaxiv.org/abs/2611.interpretable-weight-space-programming
+- https://www.alphaxiv.org/abs/2611.17110
 
-### 行動が下手なAIでも先生役は務まる 後から採点させてエージェントを強化
+### AIの知識を小型AIへ移す「蒸留」研究を、練習データの出どころで整理
 
-選択肢に確率を返す「判断モデル」は、自ら行動するより、作業後に各行動を採点する先生役で力を発揮すると示した。小型AIの家事模擬課題の成功率が72.8%から82.9%に上がった。
+大きなAI（先生）の知識を小さなAI（生徒）に移す「蒸留」を、練習の文章が事前に用意したものか生徒自身が作ったものかで分類し、比較用の道具LM-KDを公開した。小型で安いAI作りの指針になる。
 
-判断モデルは「どの選択肢がよいか」を確率付きで答えるAIで、これまで主に自ら行動する役として評価されてきた。研究チームは、行動役・審判役・先生役の3つの使い方を比べた。行動役では、先に片付けるべき小目標より簡単な目標に引っ張られて失敗したが、作業全体を見た後で各行動が役立ったかを問うと、有用な行動を正しく見分けられた。この採点を強化学習（GRPO）に加えると、15億パラメータのQwen2.5の成功率は家事を模した文章環境ALFWorldで72.8%から82.9%、ネット通販を模したWebShopで56.8%から71.4%に上がった。ただし検証は行動数に上限がある2つの文章環境に限られる。解説: 強化学習は、試行の結果に点数を与えて良い行動を増やす学び方。後から振り返って採点するほうが判断しやすい性質を使えば、小さなAIエージェントを安く鍛えられる可能性がある。
+「蒸留」は先生役のAIの答え方を生徒役のAIに学ばせる技術だが、手法の名前だけでは、練習データをどう集め、生徒の成長に合わせてどう使い回すかが分かりにくかった。この総説は、外部のデータ、今の生徒が作ったデータ、少し前の生徒が作ったデータ、それらの混合という出どころで手法を分けた。事前に用意したデータは収集と学習を切り離せるが、生徒自身が作るデータは毎回作り直す手間がかかる、といった利点と欠点を整理している。比較用ライブラリLM-KDで7つの場面を試し、Qwen3-8Bの一例ではLightning OPDという方法でGPU使用時間が120時間から30時間に減った。ただし著者は、この1例だけでデータの使い回しが一般に有利とは言えないとしている。解説: GPU時間はAIの計算にかかる時間と費用の目安。蒸留はスマホで動く小型AIや安価なAIサービスの裏側で広く使われ、整理が進むと効率の良い作り方を選びやすくなる。
 
 出典: alphaXiv
-- https://www.alphaxiv.org/abs/2611.17167
+- https://www.alphaxiv.org/abs/2611.language-model-distillation-training-contexts
+
+### 数独を解くAI、80年代の「エネルギー」方式で既存手法の1000倍速く学習
+
+最近の推論AIは同じ計算を何度も繰り返して数独などを解くが重く遅い。80年代の考え方を学習型にしたCRAMは難問の99.996%を解き、学習は1000倍以上速かった。
+
+数独や迷路のような推論パズルでは、同じ計算を繰り返し回す「ループ型」モデルが成果を上げてきたが、不安定で学習が遅く、多くの計算を必要とした。CRAMは、盤面の候補ごとに「矛盾の多さ」を表すエネルギーという点数を学び、その点数が低くなる答えを手がかりを固定したまま1マスずつ探す。1980年代のホップフィールドとタンクの方式を学習できる形にしたもの。GPU1台で42ミリ秒の学習で、数独の難問41万問余りの99.996%を解き、同じ精度で回答時の計算量は比較手法の282分の1だった。著者は、こうした解きやすいパズルは推論手法の伸びしろを測るのに向かないと注意しており、一般的な推論力を示す結果ではない。解説: エネルギー方式は、答えの良し悪しを点数で表し、点数が下がる方向へ答えを直していく考え方。ルールがはっきりした問題を少ない計算で解く仕組みに応用できる可能性がある。
+
+出典: alphaXiv
+- https://www.alphaxiv.org/abs/2611.17309
+
+### AIの推論力は学習時と違う問題でも通用するか、研究を総まとめ
+
+AIは学習データに近い問題には強いが、表記や構造が少し変わると成績が落ちる。この弱点への対策研究を4分野に整理し、どの手法も常に効くわけではないと結論づけた。
+
+大規模言語モデルは数学や論理の試験で高得点を出すが、多くの試験は学習時に見た問題に近く、記号の書き方や問題の構造が変わったり、より深い推論や新しい分野が必要になったりすると大きく成績が落ちる。この総説は既存研究を、転用しやすい推論を促す学習方法、回答時に計算量を調整する工夫、使い回せる処理を組み込む設計、成功や失敗の理由の分析、の4つに分けて整理した。各手法の前提や評価条件、主張を比べた結果、特定の場面で効く手法はあるが、どの変化にも安定して効くものはなかった。研究ごとに条件が異なり、厳密な比較ができない点も限界として挙げている。解説: 「汎化」は学習で見ていない新しい問題にも力を発揮できること。AIを未知の業務や現実の問題に使うときの信頼性を考える手がかりになる。
+
+出典: alphaXiv
+- https://www.alphaxiv.org/abs/2611.reasoning-generalization-large-language-models
